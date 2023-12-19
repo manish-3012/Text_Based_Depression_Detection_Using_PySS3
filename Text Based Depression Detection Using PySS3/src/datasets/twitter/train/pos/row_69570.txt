@@ -1,0 +1,14 @@
+Let's play Connect Four Use this to start a new game and add your move with ðŸ”´ or ðŸ”µ. Press four spaces before each line for good formatting
+
+    âšªâšªâšªâšªâšªâšªâšª
+    âšªâšªâšªâšªâšªâšªâšª
+    âšªâšªâšªâšªâšªâšªâšª
+    âšªâšªâšªâšªâšªâšªâšª
+    âšªâšªâšªâšªâšªâšªâšª
+    âšªâšªâšªâšªâšªâšªâšª
+
+When playing, reply to your opponent by copy and pasting his comment and adding your move
+
+Please don't join other people's game
+
+Refresh if bad formatting

@@ -1,0 +1,3 @@
+I dispense fun facts Comment something and I will give you a fun fact or factoid about that thing. 
+
+^all ^informations ^given ^could ^not ^be ^100% ^true

@@ -1,0 +1,5 @@
+if any of you is interested in super mario 64 the 3d all stars version of sm64 is just an emulated romhack of the shindou sm64 version with higher quality textures.
+
+also it has different voice samples (some are higher pitched, some are missing) and the BLJ is patched.
+
+however, cloning isn't patched. i almost cloned something with a bob-omb last night but i was hit by a water balloon and let go of the fake bob-omb before i wanted to

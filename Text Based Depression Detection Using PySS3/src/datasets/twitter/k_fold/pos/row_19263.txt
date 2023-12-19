@@ -1,0 +1,5 @@
+Hey guys! I am trying to come up with ideas for a dungeon crawler video game. Can you guys share some ideas? I'm learning C++ and for my first big project when I get good I want to build a dungeon crawler game. I'm making a google doc with the ideas I have: [https://docs.google.com/document/d/1Hplo-rW2sFXnF-f9q3Q3CmYuF1FoqYKmtLHLqg\_zl-8/edit?usp=sharing](https://docs.google.com/document/d/1Hplo-rW2sFXnF-f9q3Q3CmYuF1FoqYKmtLHLqg_zl-8/edit?usp=sharing)
+
+I will give people credit for their ideas and if I make this a full game and sell it then I will give free copies to anyone who helped me get ideas (I don't know if I'm going to try and make money off this project yet. It'll depend on how good it is.)
+
+Some things that I'd like suggestions for are the game name, monster ideas, boss fight ideas, weapon/spell ideas, and level themes (like jungle, frost, etc.)

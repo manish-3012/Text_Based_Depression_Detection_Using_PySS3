@@ -1,0 +1,13 @@
+I'm sorry that I'm asking this here but : Would you rather have a stable RAM Overclock and pass all of the memtest86 tests
+
+or
+
+Would you rather have a stable RAM Overclock and gain a huge performance, but it loses in the RAM Hammer test every single time and the RAM Would be vulnerable to high frequency row hammer bit flips ?
+
+Im in a bit of a pickle right now, and i seem to lose the hammer test every time
+
+Actual was 8317EB56
+
+But the expected was C317EB56
+
+What would you do ?

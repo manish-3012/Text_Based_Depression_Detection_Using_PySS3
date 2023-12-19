@@ -1,0 +1,8 @@
+I made my first PWA! It's an AI chatbot! Hey fellow teens,  
+I made my first Android, IOS and Desktop PWA. It's an AI chatbot which knows over 70 languages, 2 million songs(including Rick roll ofc). It can make you laugh, it can roast you and much more.  
+I spent quite some time on the API as well as PWA. I was pretty excited to how it looks and I think it doesn't look too bad lol, I showed it to my friends and they liked it so I thought maybe you guys will too.
+If you guys want you can test it out on [Here(Not a rick roll)](https://chat.pgamerx.com)  
+It's not a virus lol you can even run an anti-virus test if you want. It doesn't store messages because I thought it will just fill the space on phones.
+
+if you wanna download from there - 
+&gt; Just press three dots on the top,Press add to home and Press install

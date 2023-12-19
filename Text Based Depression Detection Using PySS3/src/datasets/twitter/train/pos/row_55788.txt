@@ -1,0 +1,5 @@
+I just wasted 2 hours of my life... I was coding some stuff which was going to display some characters, but the formatting didn't work, some stuff was one space to far to the left. So I messed around with some numbers to get it to work, and that accidentally destroyed another part, which made the entire thing crash if i used another function, so I decided, f\*\*k this, I don't know what's wrong, and rewrote the entire code, which took about 2 hours. when I was at the same stage, I got the same formatting issue, after messing around with some numbers I realized the problem, the space, that is 0, 0 wasn't gonna show anything, so I hadn't run the function that assigned what they should write out, the thing is, that it wasn't gonna show anything, but it still needed a value, so it'd come with, and show. I just needed to type 0 instead of 1, but instead of doing that, I spent 2 hours rewriting the entire code.
+
+&amp;#x200B;
+
+TL:DR I had written 1, where I should have written 0, forgot it had to be 0, didn't get it to work, spent two hours rewriting the entire code, to realize it when I was done

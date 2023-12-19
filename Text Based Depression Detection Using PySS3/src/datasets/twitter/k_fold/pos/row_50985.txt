@@ -1,0 +1,5 @@
+I made a global tags discord bot, try it if you want. So what the bot does is basically you define a tag and then anyone in the world can view it. You can edit and delete tags too, but once you delete it someone else can claim it. Its just for fun but given that NotSoBot removed this feature it'd be good to make a separate bot for it.
+
+heres the invite link:
+
+https://discord.com/api/oauth2/authorize?client_id=747096788053524480&amp;permissions=2048&amp;scope=bot

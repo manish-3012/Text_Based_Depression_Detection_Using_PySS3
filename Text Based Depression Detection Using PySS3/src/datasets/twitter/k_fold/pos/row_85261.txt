@@ -1,0 +1,9 @@
+I found out how to slow down earth's rotation with boners If every male on earth got a boner at the same time, the earth's rotation would slow down. Assume there are about 3.8 billion males, with the average dick height of about 80 cm off the ground. The average dick weighs about 100 grams. That's a combined mass of 380,000,000 kg of dick. Now we must make an approximation. For simplicity's sake, let us assume the penises are all evenly lined up in a ring around the equator. The equation for moment of inertia of a ring is I = mass\*radius\^2. The radius of earth is about 6.371 million meters. Therefore the radius of the approximated dick ring is 6,371,000 + 0.80 = 6,371,00.8 meters.  
+I = 380,000,000\*6,371,000.8\^2 = 1.5424\*10\^22  
+The Earth has a moment of inertia, I = 8.04\*10\^37 kg\*m\^2. The Earth rotates at a moderate angular velocity of 7.2921159\*10\^-5 radians/second.  
+Using Conservation of Angular Momentum we can find the new rotation of the earth.  
+L = I\*omega = 8.04\*10\^37 kg\*m\^2 \* 7.2921159 \* 10\^-5 = 5.86286\*10\^33.  
+5.86286\*10\^33 = (8.04\*10\^37 + 1.5424\*10\^22) \*omega -&gt; solve for omega = 7.292115899502489e-05  
+This is 4.97511e-15 rad/s slower than the earth's original rotation. This translates to 6.752\*10\^-10 seconds = 0.6752 nanoseconds longer per day. If we all have a boner at the same time, we will collectively be able to last 0.6752 nano seconds longer in bed. 
+
+Stay hard fellas.

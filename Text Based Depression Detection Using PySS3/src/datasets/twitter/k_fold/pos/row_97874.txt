@@ -1,0 +1,7 @@
+I never thought about it before Some words, then a comma and a period. -that's ok
+
+Some words, then a comma no period -that's not ok
+
+Some words. Words. -that's ok
+
+Some words. Words -that's sometimes ok

@@ -1,0 +1,3 @@
+Oi, I'm Writing a Book!! Well, It seems There aren't many Books that teach Programming using 'Rust' Programming Language. So I thought why not give it a Try Myself. Maybe I am good at Explaining things? IDK.
+If you guys Want Initial Look at It ( Somewhat Chapter 1 &amp; TOC )
+Here's a [Link](https://drive.google.com/file/d/1qtU_E837bZmpJkhlaymQWBr4bEbejjML/view?usp=sharing)

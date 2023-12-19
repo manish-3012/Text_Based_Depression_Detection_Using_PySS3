@@ -1,0 +1,33 @@
+What are some screen time limiting apps your parents use? My brother seems to bypass all of them. TLDR: My brother has a really bad Roblox addiction and it has really impacted his life negatively. My mum used to have no restrictions at all for him but his addiction is just out of control. What are some apps that he can't bypass? 
+
+First of all, I know the title seems bad and I get what you mean - it's an invasion of privacy and takes away your social life. I understand, I'm a teen myself (17). But hey before you judge and downvote, here's some context. (this is gonna be long) 
+
+My mum's a very chill person actually. She recently bought a phone for my bro last year. The thing is, my brother's extremely addicted to Roblox. He spends a minimum of 7 hours on it everyday - no kidding. And my mum was chill with this at first. Her only rules were:
+1. For him to get good grades so that he could promote to another 'stream'. This might seem like he needs to score some really good grades, but let's just say that 66% of students his age managed to get into that more advanced stream, so honestly, he doesn't need to study that hard, save just spend 1-2 hours studying everyday.
+
+2. Complete all his homework on time. Easy enough really.
+
+3. Don't play when walking and eating.
+
+And that's it really. Plus she doesn't really enforce rule 3, so mainly, it's just 2 rules.
+
+Now, the thing is my mum recently found out that my brother has been lying to her that he's done his homework. The thing is, he hasn't. He has 3 months of Google Classroom work accumulated. 1 of which was a project that we only found out 3 days before that would have taken up 70% of his final grade.
+
+The second thing is my mum also found out that he has been on some really sketchy websites offering free ROBUX - and he was actually gullible enough to fall for these sites. The hackers essentially hacker his mobile number I guess, and send out a few hundred of Global Messages to various numbers, making his phone bill increase by a lot. We checked his Roblox account - he got 2000+ ROBUX from group payments. Of this, a large chunk was from 'scamming' his friend - he threatened to 'unfriend' his friend if his friend didn't send his ROBUX to him. (we checked his messages when trying to figure out why he sent a few hundred messages to international numbers) 
+
+Lastly, he exceeded his data plan, costing my mum to pay even more money every month to feed his Roblox addiction.
+
+So yeah, that's why mum's really pissed. She's confiscated his phone and tried putting in some control apps - decreasing his daily mobile usage to 5 hours per day - but he always finds a way to bypass them. We're just trying to find an app that restricts his screen time, we don't care about the other features - reading through messages, GPS etc. 
+
+My mum's been confiscating his phone now, as she tried giving him back his phone with the restrictions but he always bypassed it and tried to escape homework. 
+
+As to why my mum didn't buy him ROBUX - she offered to, but her stipulation was for him to follow rule 3, on top of the other rules. He declined - he wanted to use his phone while eating and walking so yeah. She's gonna disable all these restrictions once he gets his school life back in order as well as his sleep schedule cause according to her, she isn't that free to monitor his life to that extent anyways. 
+
+So far, we've tried:
+Digital Time Balance by Huawei (the phone itself): He bypassed this through hardware resetting his phone.
+
+Google Family Link: His phone doesn't connect for whatever reason - Family Link on his side always states 'something went wrong'.
+
+Parental Control by Screen Time Labs: He managed to disable it somehow on his end.
+
+He has a Huawei P30 Pro phone.

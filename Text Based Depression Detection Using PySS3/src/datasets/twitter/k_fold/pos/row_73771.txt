@@ -1,0 +1,16 @@
+How to Fix Youtube An Error Occured Error I see that many people have been plagued by this and I managed to fix this issue after some digging around.Hope I manage to help
+
+Do note I fixed this on my phone and I'm not too sure how this would work on PC but I'm sure you can figure it out
+
+Follow these steps:  
+1.Go to gmail
+
+[2.Click](https://2.Click) on your profile picture
+
+[3.Click](https://3.Click) manage accounts on this device
+
+[4.](https://4.Click)Find the auto-sync button
+
+5.Activate Auto-sync
+
+Done!

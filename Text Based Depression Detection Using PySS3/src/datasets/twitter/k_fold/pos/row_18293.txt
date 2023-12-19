@@ -1,0 +1,24 @@
+I need a fellow nerd to help me Here is my code:
+
+    void print_slots(const std::map&lt;int, Desk&gt; desks) {
+    	
+    }
+    
+    std::vector&lt;int&gt; find_empty_slots(const std::map&lt;int, Desk&gt; desks) {
+    	std::vector&lt;int&gt; empty_slots;
+    	for (size_t slot_cnt = 1; slot_cnt &lt;= MAX_NUMBER_OF_SLOTS; slot_cnt++) {
+    		if (desks.find(slot_cnt) == desks.end())
+    			empty_slots.push_back(slot_cnt);
+    	}
+    	return empty_slots;
+    }
+
+Basically I want to print all of the slots. I have a variable for the maximum number of slots I have (In this case it's 4), and a map of "Desk" objects, with an integer showing what slot the desk is in.
+
+So how would I go about printing all of the slots, in order (Slot 1, Slot 2, Slot 3, Slot 4)? And if I know the slots that have desks, and if I know the slots that don't have desks, I know what all of the slots contain.
+
+If there is a desk, print "Desk", if there isn't a desk, type "n/a".
+
+Sorry if this sounds stupid, my brain isn't working right now.
+
+Tell me if you need more information! Thanks in advance.

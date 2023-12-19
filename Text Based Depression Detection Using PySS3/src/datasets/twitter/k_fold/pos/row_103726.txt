@@ -1,0 +1,67 @@
+I created a program that calculates how many of each letters of the alphabet are in the alphabet A: 1
+
+B: 1
+
+C: 1
+
+D: 1
+
+E: 1
+
+F: 1
+
+G: 1
+
+H: 1
+
+I: 1
+
+J: 1
+
+K: 1
+
+L: 1
+
+M: 1
+
+N: 1
+
+O: 1
+
+P: 1
+
+Q: 1
+
+R: 1
+
+S: 1
+
+T: 1
+
+U: 1
+
+V: 1
+
+W: 1
+
+X: 1
+
+Y: 1
+
+Z: 1
+
+Exclamation marks: 0
+
+Question marks: 0
+
+Commas: 0
+
+Full stops: 0
+
+Spaces: 0
+
+Dashes: 0
+
+Apostrophes: 0
+
+I'm so sorry but this is becoming a meme

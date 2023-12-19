@@ -1,0 +1,5 @@
+I broke my pc and fixed it myself.
+By being statically charged i managed to kill my network interface card while changing graphics cards.
+
+Fix was a new network card (40â‚¬).
+I think i really learnt something from this fail. Im not even mad.

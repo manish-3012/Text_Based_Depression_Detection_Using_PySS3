@@ -1,0 +1,5 @@
+Texas Instruments graphing calculators are way overpriced The TI-84 plus ce is $139.99, it has 256kb of ram, a cpu released in 2001 with a frequency of 48MHz, and a color screen, revolutionary, and definitely not technology that existed in the early 90s and is cheap now
+
+This couldnâ€™t cost more than $10 to manufacture, the shipping is probably the most expensive thing about it, but Texas Instruments and Casio have a duopoly on calculators so they can charge whatever they want, seriously Texas Instruments either reduce the price or make it a Linux computer with an ARM cpu so I can add my own compilers 
+
+Casio also sucks, there calculators are cheaper but they canâ€™t run c or Assembly, just the Casios version of basic, although if you updated your TI-84 you also canâ€™t cuz fuck the consumer

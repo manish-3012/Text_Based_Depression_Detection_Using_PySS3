@@ -1,0 +1,4 @@
+printf I want dieWhile am alive 
+printf ("I want die") 
+
+Sorry for the mediocre script

@@ -1,0 +1,1 @@
+webview one of control of iphone sdk is too slow that even for loading local custom page it take a marginal time

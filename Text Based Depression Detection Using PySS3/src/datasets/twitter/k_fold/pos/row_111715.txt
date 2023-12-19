@@ -1,0 +1,20 @@
+Looking for computer help So I may be getting a new laptop soon, and since I know jack shit about computers I was looking for help. The only things I would be doing is schoolwork, watching youtube, maybe playing Watchdogs 2, Among Us, and Minecraft, so would anyone be able to help? These are the specs, and it is a Lenovo ThinkPad E15: 
+
+* Processor : 10th Gen IntelÂ® Coreâ„¢ i3-10110U (2.10GHz, up to 4.10GHz with Turbo Boost, 2 Cores, 4MB Cache)
+* Operating System : Windows 10 Home 64
+* Operating System Language : Windows 10 Home 64 English
+* Memory : 4GB DDR4 2666MHz
+* First Hard Drive : 500GB HDD 7200rpm
+* Display : 15.6" FHD (1920 x 1080) anti-glare, 220 nits
+* Graphic Card : Integrated IntelÂ® UHD Graphics
+* Color : Black
+* Camera : 720p HD
+* Camera Shutter : None
+* Wireless : 802.11AC (2 x 2) &amp; BluetoothÂ® 5.0
+* Keyboard : With Number Pad - US English
+* TPM Setting : Enabled Discrete TPM2.0
+* Battery : 3 Cell Li-Cylinder, 45Wh
+* Power Cord : 65watt AC
+* Display Panel : 15.6" FHD (1920x1080), TN, Anti-glare, 720p Camera with Dual Mic, Black, Aluminum
+
+Is there anything I would need to improve?

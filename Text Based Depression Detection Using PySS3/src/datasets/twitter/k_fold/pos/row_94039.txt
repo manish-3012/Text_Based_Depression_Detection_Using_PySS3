@@ -1,0 +1,13 @@
+I spent 300 hours coding a cleaner doc editor for my robotics team because we were all fed up with Google Doc's icky formatting. Nerdy folks on r/webdev found it neat. But the app is for you guys, so I hope you guys like it too. Take a look: [https://www.kilodoc.com/](https://www.kilodoc.com/)
+
+A bunch of friends and even my parents said it couldn't be done. Maybe this'll prove them wrong. I stayed up late so many nights to make this project happen.
+
+I really hope this gets some love from you all. It would be awesome if I had something to point to like the number of page visits or the number of accounts to prove to my friends/parents that I didn't just waste my entire summer. Plus, I would have an excuse to spend another 6 months working on this.
+
+Basically, Iâ€™m trying to make the editor have just the right number of options so formatting doesn't feel like a constant worry, even when you're working with others. Please DM me or comment on this post if you have any questions. I'll try to respond quickly.
+
+Hopefully, my server is beefy enough to not be overwhelmed with traffic.
+
+Thanks everyone and good luck with school / college apps / whatever's happening in your life.
+
+(If you're curious, here's the post I mentioned in the title: [https://www.reddit.com/r/webdev/comments/j04fqr/check\_out\_my\_project\_im\_a\_high\_school\_senior\_who/](https://www.reddit.com/r/webdev/comments/j04fqr/check_out_my_project_im_a_high_school_senior_who/))

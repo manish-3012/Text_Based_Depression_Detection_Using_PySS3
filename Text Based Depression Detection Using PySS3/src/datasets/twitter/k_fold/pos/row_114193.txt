@@ -1,0 +1,5 @@
+I am a *totally* competent programmer Can't even fricking do scratch, i tried making a game but forgot to code the part in so that you can actually play it, i wanted to show it to my friends but yea.. It's broken and i can't fix it because I'm on mobile.. This sucks
+
+Oh btw link if anyone here knows how to use scratch, they can probably fix it by doing "if flag is clicked" set "touched bullet" to 0
+
+https://scratch.mit.edu/projects/496090938

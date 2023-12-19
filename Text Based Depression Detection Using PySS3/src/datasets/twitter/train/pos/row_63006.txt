@@ -1,0 +1,37 @@
+My teacher told me not to post this, so I did it anyway.  
+
+So, my computer science teacher wanted us to talk about Operating Systems, so I made this. She specified NOT to post this to reddit/youtube/whatever else so here, This is why I think windows is the best operating system.
+
+**1: It's one of the oldest Operating Systems around**
+
+Windows was first released in 1985(1), when the internet wasnâ€™t yet public and computers were used for research and rarely seen in office environments and never in homes; So when it came around people were glad to have an easy to use OS on their office computers, and lab researchers were happy for a public OS to be as easy to install and use as Windows. Microsoft later went on to become one of the biggest companies on earth(2).
+
+**2: It comes preloaded on most PCs and laptops**
+
+Like I said in point one, Windows comes preloaded on most PCs and laptops alike and auto updates or when scheduled to. So it had an advantage over older operating systems that had to be installed manually, which most people didnâ€™t know how to do on their own at the time, and even today most hire IT professionals to install or change their PCâ€™s OS.
+
+**3: It's the most popular OS around**
+
+Because Windows comes preloaded on most PCs, it's the most widely used OS both today and when it came out(3). And when Linux came out, it was made for coders and IT pros, as it wouldnâ€™t function without additional code(4). And by the time Apple came out with MacOS(5), it was too late, Windows was the most popular operating system in public use. Although Apple and Linux are close behind Microsoft in popularity, theyâ€™re likely not to pass Windows unless something major happens(6).
+
+**4: It's easy to use and understand**
+
+From the start, Windows was widely accessible due to its availability and usage potential, so people new to computers and PC veterans were eager to flock to it. This gave Windows a huge boost in user count right from the start. And it keeps this popularity today(7).
+
+\-------------------------------------------------------------------------------------------------------------
+
+Sources
+
+(1)[https://en.wikipedia.org/wiki/Microsoft\_Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+(2)[https://www.celebritynetworth.com/richest-businessmen/companies/microsoft-net-worth/](https://www.celebritynetworth.com/richest-businessmen/companies/microsoft-net-worth/)
+
+(3)[https://www.quora.com/What-is-pre-installed-Windows-10-What-does-it-mean-What-about-the-licence-of-Windows-Should-I-purchase-another-licence-key-or-is-the-pre-installed-version-activated-Does-pre-installed-Windows-have-regular-updates](https://www.quora.com/What-is-pre-installed-Windows-10-What-does-it-mean-What-about-the-licence-of-Windows-Should-I-purchase-another-licence-key-or-is-the-pre-installed-version-activated-Does-pre-installed-Windows-have-regular-updates)
+
+(4)[https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
+
+(5)[https://en.wikipedia.org/wiki/MacOS](https://en.wikipedia.org/wiki/MacOS)
+
+(6)[https://trends.google.com/trends/explore?date=all&amp;q=Windows,%2Fm%2F055yr,%2Fm%2F0fpzzp](https://trends.google.com/trends/explore?date=all&amp;q=Windows,%2Fm%2F055yr,%2Fm%2F0fpzzp)
+
+(7)[https://news.microsoft.com/bythenumbers/en/windowsdevices](https://news.microsoft.com/bythenumbers/en/windowsdevices)

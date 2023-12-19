@@ -1,0 +1,1 @@
+amazon s plugin not worked in my website it need php but my hosting provider ha only php very sad

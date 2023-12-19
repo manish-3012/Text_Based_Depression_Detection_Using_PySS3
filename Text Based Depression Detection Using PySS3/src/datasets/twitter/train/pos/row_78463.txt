@@ -1,0 +1,142 @@
+Letters in Shreak 3 I wrote a python file to count number of letters is the script here is the result for shreak 3 script  
+\`C:\\Python\\Projects\\LetterCounting\\venv\\Scripts\\python.exe C:/Python/Projects/LetterCounting/main.py
+
+a = 6236
+
+b = 1242
+
+c = 2052
+
+d = 2786
+
+e = 9530
+
+f = 1321
+
+g = 2050
+
+h = 5344
+
+i = 5577
+
+j = 112
+
+k = 1587
+
+l = 3180
+
+m = 1545
+
+n = 5707
+
+o = 6121
+
+p = 1544
+
+q = 30
+
+r = 5376
+
+s = 5686
+
+t = 6479
+
+u = 2448
+
+v = 563
+
+w = 1427
+
+x = 74
+
+y = 1805
+
+z = 77
+
+A = 1098
+
+B = 149
+
+C = 716
+
+D = 553
+
+E = 1155
+
+F = 473
+
+G = 402
+
+H = 802
+
+I = 1204
+
+J = 16
+
+K = 445
+
+L = 359
+
+M = 368
+
+N = 1037
+
+O = 827
+
+P = 673
+
+Q = 49
+
+R = 916
+
+S = 1510
+
+T = 1185
+
+U = 330
+
+V = 77
+
+W = 308
+
+X = 53
+
+Y = 313
+
+Z = 24
+
+1 = 63
+
+2 = 29
+
+3 = 23
+
+4 = 22
+
+5 = 22
+
+6 = 22
+
+7 = 22
+
+8 = 22
+
+9 = 21
+
+0 = 21
+
+! = 453
+
+\# = 19
+
+&amp; = 2
+
+( = 236
+
+) = 238
+
+\- = 361
+
+&amp;#x200B;
+
+Process finished with exit code 0\`

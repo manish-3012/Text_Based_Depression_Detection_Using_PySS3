@@ -1,0 +1,11 @@
+Any tips on how to bypass Google Link restrictions? Backstory: During the first lockdown in the UK, my parents installed Google Link on my already barely used phone (i.e. no games or other misc, main usage was googling recipes lol). Now I want to install some Android games on it, and because all the Android emulators for PC look shady. My parents simply ignore my requests to install those specific apps, and don't want to discuss about it for some reason (they're singleplayer stuff mainly, and no payed content, the only reason they gave is "games bad"), so I'm looking for a way to bypass the Google Family Link in terms of installation restriction.  
+
+
+Device info:   
+\- Huawei P20 Lite  
+\- Android 9 (Pie)  
+\- EMUI 9.1.0  
+\- I have only one user. It's the only one I use, and it's an admin  
+
+
+I've tried adding another user or another account, but those actions are made unavailable by Link. As stated before, my problem isn't the curfew, but the installation restrictions. If anyone has any advice to bypass that, preferably without allerting my parents through Google Link, I'd be grateful.

@@ -1,0 +1,1 @@
+Can CPU AIO cooling leak? So I know that water cooling systems on a pc can often fail quite easily but I was planning to water cool my CPU by AIO, so I wanted to know If there was any risk of leakage by an AIO or if it was only a problem with a full water cooled system.

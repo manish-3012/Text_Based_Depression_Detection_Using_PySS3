@@ -1,0 +1,5 @@
+Help with Stem homework I need help. I need an idea for a stem project and the idea is due in a half hour. I've been thinking for weeks and nothing. I'm consulting you. The guidelines:
+-Original (not done before- if done before, needs new addition)
+-Demonstrate circuitry and coding (with an arduino- this isn't really a restriction or anything)
+-useful to people: enough people have to find it useful that I could survey 50 people and they all say its useful- can have a target audience (e.g. people who are blind)
+I could really use your help. Thank you in advance for anyone that helps!

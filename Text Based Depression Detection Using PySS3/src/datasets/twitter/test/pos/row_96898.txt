@@ -1,0 +1,4 @@
+Alright math Riddle thing The sum of 3 natural numbers is 147. 
+The first number is double the amount of the second number. 
+The third number is half as big as the second number. 
+What are the 3 numbers?

@@ -1,0 +1,43 @@
+Posting one math proof a day and explaining why it's beautiful, day 2. Theorem (First Isomorphism Theorem): Let G, H be groups, and f : G -&gt; H an onto homomorphism. Claim: The map g : G/ker(f) -&gt; H, defined by g(\[x\]) = f(x), is an isomorphism.
+
+Proof: We first show that g is well-defined. Suppose \[x\] = \[y\], that is, there exists an element a of ker(f) such that x = ya. Then: 
+
+f(x) = f(ya) 
+
+= f(y)f(a) by definition of a homomorphism
+
+= f(y) \* 1 by definition of the ker(f)
+
+= f(y).
+
+Thus g is well-defined.
+
+We now show that g is onto. Let h be an element of H. Since f is surjective, there exists an element a of G such that f(a) = h. Thus g(\[a\]) = f(a) = h and g is onto.
+
+We now show that g is one-to-one. Suppose g(\[x\]) = g(\[y\]). Then f(x) = f(y), and hence
+
+1 = f(x) (f(y))\^{-1})
+
+= f(x) f(y\^{-1}) as f is a homomorphism
+
+= f(x y\^{-1}) as f is a homomorphism.
+
+Thus x y\^{-1} is an element of the ker(f). Hence \[x\] = \[y\] as x = (x y\^{-1})(y). Thus g is one-to-one.
+
+We lastly check that g is a homomorphism. Let \[x\], \[y\] be elements of G/ker(f). Then 
+
+g(\[x\]\[y\]) = g(\[xy\]) by definition of quotient groups
+
+= f(xy) by definition of g
+
+= f(x)f(y) as f is a homomorphism
+
+= g(\[x\])g(\[y\]).
+
+Thus g is a homomorphism.
+
+Since g is onto, one-to-one, and a homeomorphism, g is an isomorphism. QED.
+
+The beauty of this proof lies in its simplicity. There were no fancy techniques, no cool tricks. We simply plodded through the steps, using basic definitions. There's a sort of elegance to it.
+
+It's also beautiful because of its sheer power. What this theorem says, in layman's terms, is that you can turn any onto function into an isomorphism, that is, an equivalence, by taking out the "extra stuff". Many, many results in group theory rely on this simple theorem. I agree with my algebra teacher in that this should be called the Fundamental Theorem of Group Theory -- it's just that useful.

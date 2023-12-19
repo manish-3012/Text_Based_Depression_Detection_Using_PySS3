@@ -1,0 +1,73 @@
+How to access any blocked website on a chromebook under a GoGaurdian Firewall. (Most common firewall used by schools) First, search "chrome://settings" into your address bar
+
+&amp;#x200B;
+
+once you are in your google settings, get to your Authoritative Certificates by going into
+
+&amp;#x200B;
+
+Security &gt; Manage Certificates &gt; Authorities
+
+&amp;#x200B;
+
+from there, scroll down to "org-Amazon"
+
+&amp;#x200B;
+
+Untrust all four of the certificates by pressing
+
+&amp;#x200B;
+
+â‹® &gt; edit
+
+&amp;#x200B;
+
+from there simply uncheck all of the blue ticks. Hit OK.
+
+&amp;#x200B;
+
+Then, scroll down until "org-Starfield Technologies, Inc."
+
+&amp;#x200B;
+
+Untrust the Starfield certificates the same as you did Amazon.
+
+&amp;#x200B;
+
+Once you are done, refresh your page.
+
+&amp;#x200B;
+
+Open a new tab and try to access a website that would normally be blocked.
+
+&amp;#x200B;
+
+If you gain access with no problem, you're good to go.
+
+&amp;#x200B;
+
+If the blocked by administrator screen pops up, you have one more step.
+
+&amp;#x200B;
+
+Press search + esc. (The search key usually has a magnifying glass on it, but on some models its just a circle above shift)
+
+&amp;#x200B;
+
+A small window should pop up. From there click "Memory Footprint"
+
+&amp;#x200B;
+
+End all of the processes that have a gray circle with a white triangle inside of it. (This is the GoGaurdian symbol)
+
+&amp;#x200B;
+
+Scroll through and find them all in the list. (to end a process simply click on it and press the large button that reads "End Process")
+
+&amp;#x200B;
+
+Next, close that window and refresh your page.
+
+&amp;#x200B;
+
+Let me know if this worked for you guys. I will answer any questions to try and help resolve issues.

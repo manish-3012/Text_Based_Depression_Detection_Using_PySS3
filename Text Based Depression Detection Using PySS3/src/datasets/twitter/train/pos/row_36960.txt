@@ -1,0 +1,65 @@
+Top Tips on Python Programming For The Absolute Beginner  
+
+Python is an object oriented programming language. It has become one of the significant languages of the world because whether be its machine learning or AI or its web development, each and every feature of python makes it important. It is used by many large companies like Google or YouTube for their many projects. This is why the need to learn the python programming language has emerged. If you are a beginner and struggling with what is python, why should you learn python and other significant details about it then donâ€™t panic this article is made about **python programming for the absolute beginner.**
+
+### What is python programming?
+
+**Table of Contents**
+
+Python is a leading programming language in the world. It is an object oriented and interactive programming language. There are many characteristics of python programming which makes it different from other programming languages; other features like high programming language and is available for GNU GPL. If you are struggling with python programming for beginners then you first know what it is.
+
+### Significant Concept of Python Programming for the absolute beginner
+
+### 1. Python Variables
+
+Variable in a programming language is a memory location whereby data is stored. Variables can store any value whether it is a number or a text or even true/false values. Thus, if you want to use that value whenever in the program then you can just use the variable holding that value.Â 
+
+It is important to note here that python is not a strongly typed language, so you are not required to mention the kind of variable as per the value it holds. Variable type will be decoded implicitly at run time in the python and it will depend on the type of data stored in such variable.Â 
+
+For example â€“ if you want to specify int w = 5 for defining an integer named w then you donâ€™t need to write int rather write w = 5 and the type of w that is the number will be understood at run time automatically and implicitly.Â 
+
+There are 5 types of core data in python namely, Numbers, Strings, Tuples, Dictionaries and strings.Â 
+
+### 2. Python ArraysÂ 
+
+If you are searching for python programming for absolute beginners then you must know about Python Arrays. Python has arrays in the form of special variables in order to store more than one value in one variable. So if you want to store the multiple values in a single variable then you can use the Python Arrays. For example you want to list almost 300 firm names in one variable then you can use arrays.Â  It stores the elements of the same nature or kind.Â Â 
+
+### 3. Python Control Statements
+
+A control system in python functions to control the order of execution of the program which is based on the logic and values therein. There are following 3 types of control systems in Python â€“
+
+1. ContinueÂ 
+
+2. Break
+
+3. Pass
+
+**Continue statement**
+
+When you start the continue statement in python then python will skip the statements already present inside the loop after this statement and it will proceed or continue with the next iterations.Â 
+
+**Break Statement**
+
+It is used in python to stop or terminate the loop contained in it and thus the control of the program will implicitly come out of that loop.Â 
+
+**Pass statement**
+
+It works as a null operation in python. it is required and used when you require a statement syntactically.Â Â 
+
+These control statements are very important in python programming for absolute beginners.Â 
+
+#### 4. Python Syntax
+
+All computer languages have a set of predefined words and these words are known as keywords. A prescribed rule of usage is assigned to each of such keywords in the language only and such prescribed rule of use is called syntax. Likewise, Python also has some keywords and there is syntax for such words.Â 
+
+In the recent version of python that is Python 3.x interpreter has almost 33 keywords defined along with the predefined usage attached to such keywords and thus, each keyword can only be used for the meaning assigned to it. You can get the list of these 33 keywords by the help command in python shell.Â 
+
+#### 5. Python Indents
+
+Indents in python are used to construct a block of statements in python as there are always more than one statement that are part of the definition of a function in the looping construct.Â Â 
+
+Every programming language uses different techniques for defining the scope and extent of the block of statements, likewise python uses a unique indentation technique to define blocks of statements.
+
+When a block is starting, you have to type a colon symbol â€œ:â€ and then press enter thereafter the python aware editor such as IDLE will go to the next line and while leaving it will leave additional white space called as indent. Thereafter, all the subsequent statements will observe the same level of indent.Â 
+
+Original Source:  [https://statanalytica.com/blog/python-programming-for-the-absolute-beginner/](https://statanalytica.com/blog/python-programming-for-the-absolute-beginner/)

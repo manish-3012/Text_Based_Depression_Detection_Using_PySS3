@@ -1,0 +1,8 @@
+I made my own discord bot, my god you need to do the same I made NoNoEmojis, a discord bot that automatically removes inappropriate emojis. I had no prior experience, just winged it and hoped for the best.
+I had some help from anothee discord server, without which i would've never been able to make it, but godDAMN i learned some useful stuff in the making!
+
+Of course, it takes a shit ton of time (i think i sat behind that screen for 35 hours in one week), but it's damn useful. Seeing as practical jobs like truck driver, casheir etc can and will all be replaced by robots in the future, learning code is one of the most useful things i couldve done this week. No videogames for 7 whole days! Not that i couldnt because of parents, but because the developing itself was entertainment enough! Jesus christ i can't recommend it enough.
+
+Why does this belong in r/teenagers, you ask? You can never start too early, if anything you SHOULD start RIGHT THE FRICK NOW! Codelyon 2020 tutorial. Just WING IT and SEE what happens 
+
+Edit: if you wanna invite my bot, here's the link: https://discord.com/oauth2/authorize?client_id=746817865587359774&amp;scope=bot&amp;permissions=1342565590

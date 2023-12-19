@@ -1,0 +1,3 @@
+What ways should I encrypt this message? So I have Morse, I flipped the Morse, then binary, then I flipped the binary
+
+Any suggestions?

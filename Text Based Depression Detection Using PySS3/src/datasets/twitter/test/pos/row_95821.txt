@@ -1,0 +1,5 @@
+[Funny title] \[Interesting and/or smart body text\]
+
+\[Another paragraph of interesting and/or smart body text\]
+
+\[Interesting and/or smart ending paragraph\]

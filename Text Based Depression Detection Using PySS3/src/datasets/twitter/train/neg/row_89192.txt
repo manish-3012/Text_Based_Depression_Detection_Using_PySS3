@@ -1,0 +1,1 @@
+Exit bagHighly considering using an exit bag but with a mask for the gas instead of the bag. I feel so hopeless

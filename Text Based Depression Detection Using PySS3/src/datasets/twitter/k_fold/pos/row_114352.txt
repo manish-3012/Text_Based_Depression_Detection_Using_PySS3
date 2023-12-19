@@ -1,0 +1,14 @@
+My muscle memory in a nutshell Me in minecraft about to give myself a stack of oak planks 
+
+what I thought would turn out
+
+/give @ s oak\_planks 64  
+
+
+how it turned out
+
+/give @ s oak\_planks 64 255
+
+&amp;#x200B;
+
+(see the joke here is that I did the effect command bunch of times)

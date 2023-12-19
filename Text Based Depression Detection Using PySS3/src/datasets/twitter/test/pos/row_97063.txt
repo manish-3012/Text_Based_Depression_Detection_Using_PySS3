@@ -1,0 +1,16 @@
+Modern day education creates people who are trained to think linearly rather than thinking as an artist. Quick note: I am not doing this for karma or anything,  I just want to let this justified(I guess) rant out on this.
+
+Modern day education, especially the one in India(and I guess, America?) are training people to think linearly rather than letting them think as an artist would. They are forced to do textbookish questions that have no particular meaning in the real world. They are forcing people to think linearly rather than expressing their own creativity in their work and rating them on how much they remember rather than what they understand.
+
+This leads to serious problems when one lands an internship or a job where linear thinking is not preferred, and sometimes you have to solve real world problems in a different way rather than the one you've been taught at school.
+
+They also deny creative mechanisms to learning like- Minecraft,Processing,p5js etc. Minecraft education edition is a \*GREAT\* way to learn fundamental computational thinking(redstones and stuff) , Processing and p5js help develop that kids interest in coding and is a great way to start programming. I think the tuition we pay is more than an enough factor for schools to purchase  Minecraft Education Edition which does improve a kids basic understanding of programming. Processing and p5js are \*free\* btw, so why hasn't it been implemented yet in the curriculum yet?(they are not that hard to learn)
+
+  
+BUT NO.. we \*have\* to stick with Turbo-C++(which by the way is an outdated program from 1990) and we have to memorize all this terminology without actually understanding them and we \*have to\* learn it at high school because stuff like this is "too advanced" for lower graders, which wouldn't have been a problem if you taught us Minecraft or processing(or even freaking scratch) at an early age.
+
+I genuinely feel that a kids school years are wasted by not teaching stuff like this at an early age and by linearly teaching them this at high school.
+
+The world is rapidly changing and soon linear problem solving won't even be a thing, people will get jobs based on their creativity of work and efficiency of their solution. I feel like schools really need to keep up with the times and teach them creativity rather than telling them to memorize something.
+
+Anyways, that's my rant.

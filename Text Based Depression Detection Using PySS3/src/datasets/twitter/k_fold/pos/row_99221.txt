@@ -1,0 +1,1 @@
+God damnit, this is confusing For some reason when I try to plug in my Steering Wheel Setup to my PC, it refuses to work, but if I plug something else into the same PC, it works fine. What is this bullshit? My Dad and I checked the Device Manager and it says everything's fine.

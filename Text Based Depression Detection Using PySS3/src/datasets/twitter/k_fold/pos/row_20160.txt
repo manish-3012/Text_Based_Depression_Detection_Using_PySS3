@@ -1,0 +1,11 @@
+How would I go about hacking into a command console for minecraft on a server i don't own? So my friend is hosting a minecraft server and i want to troll them.
+
+there server is hosted on apex hosting and has no plugins so authme isn't an option.
+
+and as a bonus is there a way i could get the command line connected to cmd?
+
+Maybe i could connect as the server using cmd in some way but idk 
+
+&amp;#x200B;
+
+Any help would be great lol

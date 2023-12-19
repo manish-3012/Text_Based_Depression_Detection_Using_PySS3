@@ -1,0 +1,4 @@
+Adobe Flash is dead. After it stopped being supported by December 31st, Adobe Flash was still working.   
+However, since January 12, Adobe has blocked flash, deeming it dead.  
+Users will see this page:  
+[https://www.adobe.com/products/flashplayer/end-of-life.html](https://www.adobe.com/products/flashplayer/end-of-life.html)

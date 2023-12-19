@@ -1,0 +1,3 @@
+tw: sh person: *has visible sh scars*
+other person: please dont do that to yourself
+person: oh okay wow youve just cured me thanks

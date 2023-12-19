@@ -1,0 +1,7 @@
+TELL ME A JOKE \-Tell me a joke  
+\+Gf  
+\-I don't get it
+
+\+I know you don't
+
+\[*sad single noises*\]

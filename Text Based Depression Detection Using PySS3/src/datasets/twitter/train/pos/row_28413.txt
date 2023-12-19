@@ -1,0 +1,11 @@
+Quick question: how do I solve percent error (for physics lab) Just did a torque lab and had to solve for an unknown mass
+
+The actual mass: 206g
+
+What I got: 203g
+
+Whatâ€™s the equation again or could u just do it for me rq?
+
+Thanks
+
+Itâ€™s been a hot minute since Iâ€™ve had to do error analysis

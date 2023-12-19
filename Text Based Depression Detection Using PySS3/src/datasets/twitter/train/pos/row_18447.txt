@@ -1,0 +1,11 @@
+We all know that dividing anything by 0 is undefined. Even itself. So what would happen if it's possible to divide by 0? Obviously, (0 to 10^100)/0 = undefined. So we need to easily break the laws of physics. How to break the laws of physics? Simple! Give one half of a cookie to 0 friends. Although it is impossible since we live in a law biding universe of physics.
+
+But what if we were able to give the half cookie to literally nobody? Several things may happen, the universe may crumble in on itself, a black hole, time just breaks, or on easier terms... Fall onto the floor since you dropped a cookie by handing it to someone that's not there.
+
+There are equations that can be graphed out if dividing by 0, it will just either be curved and go up or down the y-axis to 10^100 and -10^100 (including positive and negative Infinity)
+
+Luckily we're able to have 0 divided by (1 to 10^100) since it equals zero.
+
+(10^100 = One googolplex)
+
+*Unless I'm overthinking this...*

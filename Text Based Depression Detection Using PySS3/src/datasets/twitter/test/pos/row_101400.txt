@@ -1,0 +1,15 @@
+Try out crypto for free - even if you're too young to buy any! Hi! I think crypto should be accessible to everyone, regardless of age/country/income level so I sometimes post these threads where I offer to send anyone a tiny amount of Nano to try it out. So to keep it short:
+
+#How to try out Nano
+
+1. Install [Natrium](https://natrium.io/) from your app/play store.
+2. Visit a [Nano Faucet](https://nano-faucet.org/).
+3. Fill in your Nano_ address and hit send.
+
+That's all! To really try it out I'd recommend getting a second wallet such as [Nault \(web-based\)](https://nault.cc/) or [Nalli](https://nalli.app/) (app/play store), then sending some Nano from your first wallet to the second. Welcome to crypto!
+
+Alternatively, if you prefer to do this purely peer to peer, leave a comment here with your nano_ address, it'll notify me and I'll send you a tiny amount of Nano. The faucet is probably a faster option though.
+
+Longer version: this demonstration would be impossible with any other crypto. Nano is instant (as you noticed) and completely feeless, so it's ideal if you want to try it out. It's very energy efficient, and was given away for free with the idea of giving everyone access to efficient and feeless money.
+
+Anyway, try it out and experience crypto, let me know what you think.

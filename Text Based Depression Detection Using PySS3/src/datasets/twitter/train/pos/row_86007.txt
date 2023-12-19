@@ -1,0 +1,7 @@
+for people who are tired of getting rick rolled. little trick for avoiding rick rolls. although, this works best on a computer
+
+take the url, so, [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ), which is the link to the actual music vid.
+
+copy paste that into the search bar, but then delete everything except the code, in this case dQw4w9WgXcQ
+
+search for that and you'll find what the actual video is. although this doesn't work if the title and thumbnail show something different.

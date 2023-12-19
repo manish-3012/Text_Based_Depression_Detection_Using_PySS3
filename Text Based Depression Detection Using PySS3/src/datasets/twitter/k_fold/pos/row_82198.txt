@@ -1,0 +1,7 @@
+I just noticed that when you italicize text it changes the font in posts/comments. Or at least in the desktop version of [Reddit.com](https://Reddit.com)
+
+Example:
+
+Normal: a
+
+Italics: *a*

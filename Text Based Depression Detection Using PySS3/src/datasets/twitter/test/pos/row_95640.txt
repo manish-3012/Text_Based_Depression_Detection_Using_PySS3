@@ -1,0 +1,23 @@
+Learning to make games during quarantine (tips and tricks for new devs) Day 1 If you didnt see yesturday's post go check it out!
+
+So today i finally had unity downloaded... it was time to figure it out... i started messing with it doing random stuff and seeing how it worked... but I knew i wasnt gonna be able to do anything cool without some way to learn how to use the engine...
+
+This was easy... I just went on youtube... and found a beginner series from someone called Brackeys... and learn the basics ig (he disnt explain very well... just showed you how to do stuff)... and i was going along part by part making a game where you are a cube trying to dodge obstacles... well i spent about 10 minutes untill I had a problem...
+
+Whenever I tried to open script editor (where you write the code) it would open adobe pdf reader (I wanted to open visual studios... of which i downloaded with the unity download) so I asked people on the Unity subreddit asking what was going on, and they told me a solution... go to preferences and switch default script editor to vs(visual studios)... but then, I yet again ran into another problem...
+
+When i tried to select it as default it made me select it in my files... and I searched eveywhere (I mean everywhere) and couldn't find it... so I had to look up what was going on... and there was one page online of someone saying they had the same prob... they said they fixed it by redownloading visual studios... which after 2 hrs (slow internet) finally was redownloaded... AND IT WORKED!
+
+So now that everything was working, I went back to the youtube tutorial and followed along... and this went well for about a hour and a half... but then... you guessed it... I had another problem on my hands...
+
+The code that he was using was old and previously replaced by new functions and stuff in the newer version i have... long story short, the code in his video wasnt working for me... so I ditched that series and the project i had spent all my time on so far, and found a new series...
+
+I didnt end up finding a new series, but instead a 2 and a half hour long video explaining all the basics (explained everything in depth and very well) I worked on that for about another hour, and finally learned a good amount.
+
+Obviously i didnt finish a 2 1/2 hour long vid in a hour... but it was midnight and time for me to go to bed...
+
+This was all yesturday(thursday) because i want to be one day ahead of what i write, this way I know everything I did on the day im writing about...
+
+Im having lots of fun learning about game development and would recommend to anyone who has a okay pc and is interested in this kind of stuff to start learning as well... it helps keep you busy during your days in quarantine
+
+Thanks for reading, and stay tuned for tomarrows post!

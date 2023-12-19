@@ -1,0 +1,67 @@
+Challenge: Guess the game by the console output. Hint: It's an unofficial DOOM game You got the shotgun!
+
+You got the shotgun!
+
+You got the shotgun!
+
+Picked up a medikit.
+
+Picked up a medikit.
+
+You got the super shotgun!
+
+Picked up a box of shotgun shells.
+
+Picked up a medikit.
+
+You got the shotgun!
+
+Picked up a medikit.
+
+Picked up a box of rockets.
+
+Picked up a blue keycard.
+
+\----------------------------------------
+
+You need a red key to activate this object
+
+\----------------------------------------
+
+You got the shotgun!
+
+You got the shotgun!
+
+You got the shotgun!
+
+You got the shotgun!
+
+Radiation Shielding Suit
+
+Picked up a box of rockets.
+
+Picked up a box of rockets.
+
+Picked up a yellow keycard.
+
+Radiation Shielding Suit
+
+Picked up a medikit.
+
+Picked up a medikit.
+
+Picked up a medikit.
+
+You got the shotgun!
+
+Picked up the MegaArmor!
+
+Picked up a clip.
+
+Picked up a clip.
+
+Picked up a clip.
+
+You got the chaingun!
+
+You got the shotgun!

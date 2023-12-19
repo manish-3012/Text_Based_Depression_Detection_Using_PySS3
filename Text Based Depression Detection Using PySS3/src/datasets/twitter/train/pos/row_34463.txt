@@ -1,0 +1,9 @@
+did you know 7?Û[qtÄšcsâ”‚a?Ó¡LWUÂ®
+
+the string above is an encrypted message that says ```I'm gay.```
+
+it uses random characters, so that's why the formatting is weird
+
+i haven't made a program to encrypt/decrypt it yet, but i have the whole algorithm written down in my google docs.
+
+and no, i didn't use some crazy ass enigma cipher. the algorithm is actually pretty simple but it's made to look confusing

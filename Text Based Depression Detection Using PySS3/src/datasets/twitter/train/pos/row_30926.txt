@@ -1,0 +1,9 @@
+Bypass Qustodio on your PC and phone My mom installed Qustodio onto my PC and phone and I disabled it in about a week. Here's how:
+
+This works if you have a Windows PC, I don't know if it works on other OS.
+
+Press Win+R. Then type msconfig. Now  go to the services tab, scroll down until you see Qustodio and uncheck all services of Qustodio.
+
+For your phone, go to Settings &gt; Accessiblility &gt; Downloaded Services and uncheck Qustodio. 
+
+Now your Qustodio won't record your activity. Just undo the previous steps if you want it to continue.

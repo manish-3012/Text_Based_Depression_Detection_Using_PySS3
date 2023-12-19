@@ -1,0 +1,9 @@
+Here's my sad love story ðŸ˜­ Me : I love you 
+
+Girl : An electric motor is anÂ electrical machineÂ which converts electrical energy into mechanical energy. The basicÂ working principle of a DC motorÂ is: "whenever a current carrying conductor is placed in a magnetic field, it experiences a mechanical force".Â The direction of this force is given by Fleming's left-hand rule and its magnitude is given by F = BIL. Where, B = magnetic flux density, I = current and L = length of the conductor within the magnetic field.
+
+Fleming's left hand rule : If we stretch the first finger, second finger and thumb of our left hand to be perpendicular to each other, and the direction of magnetic field is represented by the first finger, direction of the current is represented by the second finger, then the thumb represents direction of the force experienced by the current carrying conductor.
+
+Above animation helps in understanding theÂ working principle of a DC motor. WhenÂ armature windingsÂ are connected to a DC supply, an electric current sets up in the winding. Magnetic field may be provided by field winding (electromagnetism) or by usingÂ permanent magnets. In this case, current carrying armature conductors experience a force due to the magnetic field, according to the principle stated above.
+
+Commutator is made segmented to achieve unidirectional torque. Otherwise, the direction of force would have reversed every time when the direction of movement of conductor is reversed in the magnetic field.Â This is how a DC motor works!

@@ -1,0 +1,3 @@
+I hate bots I tried to post a meme that I had created in a subreddit, but a bug ocurred and my post was posted twice at the same time.
+
+Then the bot accused me of reposting my own meme, which was the same post, but since the post was posted twice, the bot thought that it was a repost.

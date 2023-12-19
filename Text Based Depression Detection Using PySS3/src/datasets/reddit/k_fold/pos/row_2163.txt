@@ -1,0 +1,1 @@
+tried with smsjunction com but got odbc driver error

@@ -1,0 +1,5 @@
+How do I solve this? The average of 5 distinct scores have the same value as the median of the 5 scores. The sum of the 5 scores is 420 [blaze it]. What is the sum of the r scores that are not the median?
+
+
+
+Act prep, so I'm looking for how to solve and not the answer, but either one is fine. Thanks

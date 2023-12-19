@@ -1,0 +1,1 @@
+Quick question? How do I dynamically allocate a 2D array on the heap with non-const variables? C++

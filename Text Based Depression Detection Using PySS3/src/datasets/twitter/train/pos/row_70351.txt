@@ -1,0 +1,3 @@
+I want to access a server console (minecraft) without having access to the server files i wanna test stuff 
+
+any help?

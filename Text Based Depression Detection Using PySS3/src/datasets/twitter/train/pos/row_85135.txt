@@ -1,0 +1,3 @@
+Free award Choose a number between 1 and 500. A few hours later I'll be getting a number from a radom number generator and give the person with that same number the award.
+
+And also don't choose a number someone has already taken.

@@ -1,0 +1,37 @@
+Posting one math proof a day and explaining why it's beautiful, day 5. Links to previous posts:  [\#1](https://www.reddit.com/r/teenagers/comments/j70x8e/posting_one_math_proof_a_day_and_explaining_why/), [\#2](https://www.reddit.com/r/teenagers/comments/j7pkxt/posting_one_math_proof_a_day_and_explaining_why/), [\#3](https://www.reddit.com/r/teenagers/comments/j8p2ya/posting_one_math_proof_a_day_and_explaining_why/), [\#4](https://www.reddit.com/r/teenagers/comments/j9i5jk/posting_one_math_proof_a_day_and_explaining_why/).
+
+Theorem (Rank-Nullity Theorem): Given finite dimensional vector spaces V, W, and a linear map f: V -&gt; W, dim ker f + rank f = dim V.
+
+Proof: Let {v\_1, . . ., v\_k} be a basis for ker f. We extend this to a basis {v\_1, . . ., v\_n} for V. We now note that since f is linear, {f(v\_1), . . ., f(v\_n)}spans f(V). However, f(v\_1) = f(v\_2) = . . . = f(v\_k) = 0. Thus 
+
+{f(v\_{k+1}), . . ., f(v\_n)} spans f(V). We now show that {f(v\_{k + 1}), . . ., f(v\_n)} is a basis of f(V). Since it already spans, it is enough to show that it is linearly independent.
+
+Suppose not. Then there exist a\_{k + 1}, . . ., a\_n, not all 0, such that a\_{k + 1} f(v\_{k + 1}) + . . . + a\_n f(v\_n) = 0. Thus since f is linear, f(a\_{k + 1} v\_{k + 1} + . . . + a\_n v\_n) = 0, and hence 
+
+a\_{k + 1} v\_{k + 1} + . . . + a\_n v\_n is an element of ker f.
+
+Thus since {v\_1, . . ., v\_k} is a basis for ker f, there exist a\_1, . . ., a\_k such that 
+
+a\_{k + 1} v\_{k + 1} + . . . + a\_n v\_n = a\_1 v\_1 + . . . + a\_k v\_k
+
+or, alternatively,
+
+a\_1 v\_1 + . . . a\_k v\_k - a\_{k + 1} v\_{k + 1} - . . . - a\_n v\_n = 0.
+
+As we have assumed that not all of the a\_i are 0, this shows that {v\_1, . . ., v\_n} is not linearly independent, hence not a basis. Contradiction. 
+
+Thus we must have  {f(v\_{k + 1}), . . ., f(v\_n)}, and hence a basis. Thus 
+
+rank f = dim f(V) = n - k = dim V - dim ker f,
+
+and hence
+
+rank f + dim ker f = dim V.
+
+QED.
+
+This proof beautifully illustrates the power of well-chosen definitions. By defining basis, linear maps, and dimension properly, we get a very useful result that is at the heart of much of linear algebra. It also showcases the powerful (though sometimes misleading) technique of *proof by contradiction*, wherein one shows something is false by assuming it is true and deriving a contradiction.
+
+This proof is not a hard proof, I rederived today it after not looking at it for three years. It is, however, somewhat long and involves many steps and ideas from basic linear algebra.
+
+This is also not the only proof of this theorem. There are others, one of which uses quotient vector spaces and is almost identical to the proof showcased in #2, with a few details changed. But I wanted to show you guys something new, that showcases other powerful ideas.

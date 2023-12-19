@@ -1,0 +1,3 @@
+Teachers who cold call are the worst! So I built this extension that alerts you if your name is said in a Google Meet: 
+
+ https://chrome.google.com/webstore/detail/notifyme/dgckonnckhjlnjbhhcmomkgidhkjngeo

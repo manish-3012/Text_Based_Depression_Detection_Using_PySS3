@@ -1,0 +1,19 @@
+How to hack step by step (pro tips from actual haccer) Step 1: Install Kali Linux
+
+This process is essential for aspiring haccermen. Because haccers only use kali linux, and you can intimate everyone by saying "I use Kali"
+
+Step 2: Wear a black hoodie with the hood up your head
+
+Comfiness and anonymity is very important for haccers
+
+Step 3: Consider purchasing multiple monitors
+
+Because that's what true haccers do. Also it looks edgy and cool
+
+Step 4: Turn off all the lights in your room, except your monitor. 
+
+Step 5, The actual hack: Open up your terminal, and type in "sudo apt-hack". Then add the person or site you want to hack and hit the enter button.
+
+Step 6: Try practicing speaking in a low voice-"I'm in"
+
+Step 7, running from 'the man': Try to wear a guy fawkes mask wherever you go

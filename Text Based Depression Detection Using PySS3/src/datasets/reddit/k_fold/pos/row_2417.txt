@@ -1,0 +1,1 @@
+adamcurry is it possible to add another stream option that us the regular 0 0 0 port i can t stream noagenda because of fw proxy

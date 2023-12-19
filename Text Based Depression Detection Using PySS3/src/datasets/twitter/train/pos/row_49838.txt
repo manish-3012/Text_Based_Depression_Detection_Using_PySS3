@@ -1,0 +1,19 @@
+Find friends quicker using 28 questions via the findafriend project. Match up ðŸ‘¥ based on age, gender, interests, continent, willingness to share pictures or voice calls, studying/working status and more ðŸ“· ðŸ—ºï¸ ðŸ“ž! How does it work? Basically it's project with one main form that matches people up based on answers to 28 questions. For most of the questions, you choose **your answer** and also **answers from people you would want to talk to**.
+
+Thanks to these 28 questions, it makes it much quicker to find people that 'match' what your preference is. For example you could say you're looking for people from **Europe**, who are **16-25**, who '**maybe/yes**' are willing to do **voice calls**, and they're also **studying**. Also quite handy, there is a filter to not match with "*low effort*" (based on word count) users.
+
+What is the final result? The algorithm searches over 3000 people (everyone is mostly from reddit), to find you compatible matches. The final result is you usually get 20-80 **matches** \- people that meet the criteria. Once you have the list, you can then send out **friend requests** to these users, (or **receive requests** from them), and once either of you have **accepted a request, you get connected with that person**, you form a friendship, you eventually meet up, get married, 3 years later you ***get divorced and fight*** over the who gets the coffee table with 5 lawyers involved.
+
+* You can be completely anonymous if you prefer, you would need a 'disposable/throwaway' method of contact.
+* Most people get around 20-80 matches. If you get less, make sure you have filled out the form correctly!  If you include people who haven't been active in 2 weeks it's - 200+
+* You can send 25 outgoing requests per 24h period.
+* Email notifications about requests/friends get sent out every 30 minutes, though not everyone added an email.
+* Matches are done instantly! But you still have to wait for the user to accept your friend requests.
+* This project is completely non profit and there is no advertising. **We're looking for help if you want to help**, and also there is a patreon if you want to support it in that way.
+* [/u/finder\_of\_the\_humans](https://www.reddit.com/u/finder_of_the_humans/)/  runs this project, I'm helping out with getting more attention. A big big thank you to them, they've been working on this for more than 6 months now. :)
+
+This is what the UI looks like for a "match": [https://imgur.com/a/Dfqp6ES](https://imgur.com/a/Dfqp6ES)
+
+The link is: [https://findafriend.club/howitworks](https://findafriend.club/howitworks)
+
+The last tip I can give is to not be shy to send requests to people - quite a few people sign up and don't send out any requests. People do have the option to hide their profile if they get too many people talking to them, so it's safe to assume if you see their profile - they're probably still looking for a friend.

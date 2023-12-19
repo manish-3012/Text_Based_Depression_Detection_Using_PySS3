@@ -1,0 +1,6 @@
+Please, for the love of God, the Firefox logo is not changing. I've seen way too many memes about this (some of which are funny) but you have to understand that the "new browser logo" is actually Firefox's BRAND LOGO. NOT THE FUCKING BROWSER LOGO!! Look here: https://mozilla.design/firefox/logos-usage/
+This is the official website from Mozilla that shows every logo used by Firefox or the Firefox brand.
+
+Tl;dr: People overreact to an old article from somewhere (I'm saying https://techcrunch.com/2019/06/11/mozilla-gives-firefox-a-new-logo-as-it-looks-beyond-the-browser) and think that the browser logo is gonna change when it won't.
+
+(also the new logo is now in use, you'll find it when using Firefox Sync and other Mozilla products related to Firefox.)

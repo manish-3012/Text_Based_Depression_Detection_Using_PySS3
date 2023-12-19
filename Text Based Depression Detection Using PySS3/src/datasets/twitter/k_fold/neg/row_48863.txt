@@ -1,0 +1,6 @@
+so after a bit of researchnasa published a paper where they state if you are going to 17 m/s or more you are almost guarantee to die if you land on a hard surface.
+
+whats the formula to know my velocity at the end of a fall if I know the height of the building and my weight?
+
+
+also, apparently you reach terminal velocity after a fall of around 450 meter, do you get to 17m/s ? I mean gravity pulls you max around 10 m/s

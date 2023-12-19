@@ -1,0 +1,17 @@
+I did a scientifical experiment With this experiment I wanted to measure the effects of smoking to heart rate. My hypothesis was that I'd find around 20% increase in beats per minute. 
+
+I measured my resting heart rate. Then I smoked a cigarette. After that I measured my resting heart rate again.
+
+Results:
+
+Measurement one (before smoking) 67 bpm
+
+Two (immediately after smoking) 102 bpm
+
+Three (5 minutes after smoking) 80 bpm
+
+Four (10 minutes after smoking) 77 bpm
+
+The results showed that immediately after smoking my heart rate went up by 52 %. This was significantly higher increase than what I anticipated. 
+
+Then my heart rate started to decrease towards 67 bpm again.

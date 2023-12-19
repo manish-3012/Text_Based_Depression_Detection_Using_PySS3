@@ -1,0 +1,7 @@
+I built a Minecraft redstone computer, is anyone interested in that kind of stuff? I'll put pictures in the comments if you want, so let me know.
+
+Basically it uses 4-bit binary logic with redstone to do calculations, all with regular Minecraft blocks. It's huge and inefficient compared to the things other people on the server build, but I'm proud of it.
+
+I'm overhauling programming logic, meaning it doesn't work right now, but originally it could do the Fibonacci sequence up to 13.
+
+If anyone's wondering, I build on the server mc.openredstone.org.

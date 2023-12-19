@@ -1,0 +1,7 @@
+I though my maths teacher was different e To give you some context, I'm In high school, in a programming area, the essential thing to know is how to think, logically
+
+Today I was in my maths class, and me and my friend thought on a simpler way to get the answer and our teacher started complaining that we need to explain our logic on the test, instead of just checking the answer
+
+In the real world, the client just wants the fucking program to work, they don't care how it's coded
+
+I really don't understand

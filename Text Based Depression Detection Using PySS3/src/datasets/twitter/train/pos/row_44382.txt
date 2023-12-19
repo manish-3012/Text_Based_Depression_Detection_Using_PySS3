@@ -1,0 +1,1 @@
+My LED lights are broken For some colors, half of the lights are one color and the other half are a completely different one. And for blue, half of the strip just doesnâ€™t even light up. Anyone know whatâ€™s wrong or how to fix it?

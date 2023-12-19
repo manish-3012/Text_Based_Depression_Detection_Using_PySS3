@@ -1,0 +1,19 @@
+Day 2 of my learning thingy Tl;Dr my progress bar basically didn't move at all
+
+Layman terms: did some research, hit a dead end. Am retracing my steps but I lost a lot of time. 
+
+Today I was just browsing through YouTube a little more to see if there are already tetris ai that I could use. My target is tetr.io so I was seeing if there's any ai for that website.
+
+So I found this tetris ai guide that apparently the comments are bashing the video for plagiarising the code and that the guy teaching sucks at explaining. I might still try it out tho. I found another guy with a tetris ai as well, might do that too. 
+
+Then I found another video about cold clear. It's wayy too complicated for me. I tried using their discord and asking how does one operate this ai and oh boy let me list them, maybe. 
+
+1. The AI was coded in rust(a programming language) . I have intellij and visual studio code as the interpreter(basically something to let me look at the code of this ai) and boy do rust hate visual code on windows. Idk how to put rust into intellij, haven't tried it. Also I'm not learning another programming language screw that. 
+
+2. To use this thing is hard. I'm gonna have to search through thousands of lines of code and reverse engineer it so that I can figure out what the hell does each folder of scripts do. Oh boy I am too inexperienced for that.
+
+3. I'm not even that advanced. I asked and one of the discord member told me how to run the AI using python. I mean I could also just download another app in that discord and run it but apparently if I wanna use python, I gotta use experience to know how to use the AI in a Web browser. There's no tutorial for this. Or at least not that I could think of.
+
+4. I was overwhelmed by the info that I just spent 5 hours on YouTube and other games including tetris because my brain just needs to rest. I could absorb anymore info for today.
+
+At least I'm starting java script with code academy. Let's see where that takes me.

@@ -1,0 +1,39 @@
+1 + 1 = 11 Yes
+
+need proof?
+
+I can Prove
+
+I need to start from Fundamental level to prove
+
+what is 1 here?
+
+1 here is a digit and number
+
+1 digit here is the only digit in this base 1 number system that I created
+
+1 number in my this number system is equal to 1 in common/Universal Base 10 Number System
+
+&amp;#x200B;
+
+|My Created base 1 Number system| Common/Universal Base 10 Number System|
+|:-|:-|
+|1|1|
+|11|2|
+|111|3|
+|1111|4|
+|11111|5|
+
+&amp;#x200B;
+
+My base 1 number System only supports Natural Numbers that is (in terms of common/Universal Base 10 Number System) 1,2,3,4,5,.......,âˆž
+
+so lets get back proving the statement 1 + 1 = 11
+
+now we can easily prove it by converting it to Common/Universal Base 10 Number System
+
+1 + 1 = 11        =========       1 + 1 = 2
+
+11 = 11            =========       2 = 2
+
+Hence Proved

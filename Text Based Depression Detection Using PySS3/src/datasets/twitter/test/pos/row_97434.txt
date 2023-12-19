@@ -1,0 +1,2 @@
+YAY I AM able to make a part 2 to the higher derivative daily post though the next one will be in a week so here you go f(x)=e^x ln(x)
+f'(x)= e^x (1/x + ln(x))

@@ -1,0 +1,7 @@
+Let's Play Hangman I'll provide a pretty simple phrase and then you lot will try and guess what the phrase is.  You will get 8 chances for wrong letters.  The person who guesses the phrase correctly will get their name added to this post.  I will keep track of wrong guesses.
+
+Phrase: ----  ---  ---
+
+Wrong Letters:
+
+Winner:

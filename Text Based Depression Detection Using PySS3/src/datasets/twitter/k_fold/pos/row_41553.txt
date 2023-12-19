@@ -1,0 +1,61 @@
+Thank you, sis! Okay I don't have anyone else to share this with... so sharing with you guys..
+
+&amp;#x200B;
+
+For the pas 2 or 3 years i was at a very low point in my life i actually felt like my life has no real purpose..
+
+i was just sad and unhappy all the time.. Mom dad don't have a very healthy relationship and my elder bro is ... let's just say a giant pain in the ass..
+
+The only person who (i feel) cared about me is my cousin.. she is 2 years older than me..
+
+We were not very close before but then we met again at a family get-together and we were both bored of the usual crap that goes on in these gettogethers.. we started talking and discovered we had similar interests and we gelled well together.. We have been good friends ever since...
+
+Now I can say she is the friend I wanted in my life.
+
+I could talk to her about anything and everything.. I told her about how sad i was... She is always there to listen and advice..
+
+She said take up a hobby and see if it works.. and said i could learn programming ..
+
+I looked up online and found a few tutorials on Python and started liking it ..
+
+i started to build small scripts and started making progress.. i felt like this is something i could do for a living..
+
+Back in june, we were watching Pokemon and she mentioned something about having a pokedex-like catalog for gifts..
+
+I was like what??
+
+Then she mentioned her friends bday was coming up in a week and she couldnt find a gift..
+
+she normally goes for relatively cheap hand made gifts that she finds on etsy.. she said she sometimes spends hours to find the perfect thoughtful gift for someone .. 
+
+i suggested some stupid ideas that she obviously rejected...
+
+This got me thinking. what if i can use programming to help her find gifts.. this could be a very good project
+
+i started doing some research online and found a lot of sites that have these catalogs..
+
+so i said to myself that i create build this app which aggregates stuff from many sites .. she can use this app to browse gifts for anyone
+
+i felt this could be a small thank you gift for her for being there for me..
+
+but i did not have any experience in making apps.. so i started to learn flutter
+
+And it's been almost 9 months now... I have been learning flutter and working on this app during weekends and for a couple of hours on weekdays.. i polished it as much as i could.. this now has an aggregated list of gifts.. added category wise gifts like gifts for mom, gifts for dad, gifts for bf/gf etc.. all the data i got from sites online.. all the gifts have  links so she can directly go to site..
+
+i thought of adding it to apple app store but the fee is 99 fucking dollars per year.. no thanks..
+
+so just added it to android play store.. they have a small one time fee of 25 bucks.. i have been fixing minor issues for the past week... and i created social media pages..
+
+I told her i have found a pokedex-like catalog app that she had talked about... so I have installed the app on her phone ... And she is loving it.. I did not tell her i made the app... 
+
+I will surprise her by remotely adding a "thank you" banner image with her name on the home page of the app.. 
+
+i want to see her reaction when she opens it and sees her name on the homepage...
+
+When she's all confused, I will tell her i created this app and this was a "gift" from me to her for being a good friend..
+
+Thank you sis! You have brought positivity in my life.. You have given me a sense of direction.. 
+
+&amp;#x200B;
+
+Lots of love &lt;3

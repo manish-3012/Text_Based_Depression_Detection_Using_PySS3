@@ -1,0 +1,15 @@
+Posting one math proof a day and explaining why it's beautiful, day 4. Links to previous posts:  [\#3](https://www.reddit.com/r/teenagers/comments/j8p2ya/posting_one_math_proof_a_day_and_explaining_why/), which has links to #2 and #1.
+
+Today's setup will be a bit different -- I'll walk you guys through a ruler-and-compass construction and explain why it works. We'll be doing the ruler-and-compass construction of an angle bisector.
+
+&amp;#x200B;
+
+We now show that line CD does, in fact, bisect angle ACB. To do this, we show that triangles ACD and BCD are congruent.
+
+By construction, we have that the length of segment AD is equal to the length of segment BD. We also have, by construction, that the length of segment AC is equal to the length of segment BC. As the two triangles share the side CD, they are congruent by side-side-side congruence.
+
+Thus angles ACD and BCD are equal, and hence CD is the bisector of angle ACB. QED.
+
+This proof is beautiful partly because of its age. Euclid invented this proof, thousands of years ago in Ancient Greece. It's stood the test of time and is still taught and used now. That's pretty damn cool.
+
+It's also beautiful because of its uses. By changing around the proof just a little bit, we can show that every point of an angle bisector is equidistant to the two lines that form the angle it bisects. We can also use this to construct a line perpendicular to another -- after all, that's just bisecting a straight line. From there, we get many more constructions -- Construction of parallel lines, construction of a square, and many more. All from that little proof.

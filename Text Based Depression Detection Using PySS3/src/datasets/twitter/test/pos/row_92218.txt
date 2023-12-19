@@ -1,0 +1,3 @@
+discord pop up notifications not working for yesterday and today my pop up notifications haven't been showing but ive still been hearing the ping sound effect and get an unread on my icon badge. im probably missing something really obvious but i have restarted discord many times and i have checked that desktop notifications are enabled. any fix for this problem? 
+
+(also yes i have posted this on r/discordapp but this sub is more active)

@@ -1,0 +1,19 @@
+How to not take fall damage irl (2021 edition) Hello again! Today Iâ€™ll show you how to not take fall damage irl. 
+
+Just before we start make sure your game is up to date (1.9.3).
+
+Things we will need:
+
+- 10k xp
+
+- 20 skill points
+
+- access to community market
+
+First you go to menu \&gt; settings \&gt; perks and activate the â€œlightweightâ€ perk tree. After that buy â€œfeatherâ€ (5% less fall damage) and â€œgravity?â€ (you fall 10% slower) perks.
+
+After that you need to go in community market and buy â€œScoutâ€™s secretâ€ (1.53â‚¬). Equip Scoutâ€™s secret in the â€œskillsâ€ category. Now buy â€œ Old Aperture bootsâ€ (0.85â‚¬) and equip them in the â€œarmorâ€ category.
+
+All you need to do now is jump and right when you fall to the ground you need to duck. And thatâ€™s it! You wonâ€™t take any fall damage. If you mess up the landing you should take 45% less damage.
+
+Hope this helped you. Enjoy your falling!

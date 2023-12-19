@@ -1,0 +1,5 @@
+What is an easy to use and free software that could take in a lot of pictures (more than 1000) and make a video with them (I already have the pictures)? Or is there a way I could do this with python ? All you need to read is in the title. If I find a way of posting videos on internet, I'll edit with a link to the final version.
+
+I just created a python code able to create thousands of images, and want to make a video with these images. (Don't worry, these images are totally SFW.)
+
+If I made a language/grammar mistake, feel free to correct me, I'm still learning English.

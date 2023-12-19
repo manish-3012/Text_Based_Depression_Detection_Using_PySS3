@@ -1,0 +1,1 @@
+love what drupal file framework module could do but is sick of bitcache error making it impossible to upload file

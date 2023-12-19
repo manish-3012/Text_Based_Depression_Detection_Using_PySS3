@@ -1,0 +1,1 @@
+When you are connected to a wifi network. Does it say the devices name or make? So when someone checks the devices connected to the wifi, will it say the phones name (what you name it in settings) or will it say the make of the phone?

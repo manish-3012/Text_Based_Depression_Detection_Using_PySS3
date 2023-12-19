@@ -1,0 +1,13 @@
+Posting one math proof a day and explaining why it's beautiful, day 1. Theorem (Intermediate Value Theorem): Let f : \[a, b\] -&gt; R be a continuous function. Suppose f(a)  &lt; f(b). Then for all d such that f(a) &lt; d &lt; f(b), there exists an element c of \[a, b\] such that f(c) = d.
+
+Proof: We first show the following lemma: 
+
+Lemma: the continuous image of a connected set is connected.
+
+Proof: Let f: U -&gt; V be a continuous function, and suppose U is connected. Suppose there are subsets A, B of f(U) such that both A and B are open and their union is V. Then f\^{-1}(A) and f\^{-1}(B) are open since f is continuous, and the union of f\^{-1}(A) and f\^{-1}(B) is U. Since U is connected, we must have that the intersection of f\^{-1}(A) and f\^{-1}(B) is empty. Thus the intersection of A and B must be empty as well. Hence by the definition of connectedness, V is connected.
+
+We now note that since the only connected subsets of R are intervals, f(\[a, b\]) must be an interval. Thus if there is a d such that f(a) &lt; d &lt; f(b), d is an element of \[f(a), f(b)\] which is a subset of f(\[a, b\]). Thus d is an element of f(\[a, b\]), and therefore there is an element c of \[a, b\] such that f(c) = d. QED.
+
+This proof is beautiful because of how it approaches the problem. If we'd tried to use properties of the real numbers and an epsilon-delta definition of continuity, we'd have a very hard time. So instead, we stepped back and proved a more general result about connectedness, and then the Intermediate Value Theorem tumbled out as a trivial corollary. 
+
+One thing we did sweep under the rug, though, is the proof that the only connected subsets of R are intervals. This is a rather technical proof, but it's rather interesting in its own right and exemplifies several important techniques from analysis and topology. It's also very long and double the length of the rest of the proof of the theorem, so I'll put it in its own post.

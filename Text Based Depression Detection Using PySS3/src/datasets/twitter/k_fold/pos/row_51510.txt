@@ -1,0 +1,2 @@
+How to TRULY go incognito While incognito mode does delete you browser history, it may leave traces in the DNS cache, which can be traced to the urls visited. To clear your DNS cache, type `ipconfig /flushdns` in command prompt. If you wish to make it easier, type this in notepad and save it as a batch(.bat) file. Clicking on that file will automatically clear DNS. (Sorry Mac and Linux users, I don't know if this will work)  
+NOTE:Your service provider may be able to access your data, and may be given to you upon request

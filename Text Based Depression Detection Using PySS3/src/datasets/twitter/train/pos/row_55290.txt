@@ -1,0 +1,1 @@
+Istg CMD sucks at everything Like on Linux installing some python libraries would go like this `sudo pip3 install requests` and that's that. But on windows it's like `pip3 install requests` and then it's 3 hours of troubleshooting

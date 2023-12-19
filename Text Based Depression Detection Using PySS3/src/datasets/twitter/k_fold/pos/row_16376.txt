@@ -1,0 +1,6 @@
+Found something cool you can do with OBS Step one: Download this plugin called "VirtualCam" (You need to have OBS installed first, obviously)
+Step one and a half: Launch OBS and create a "scene" with anything you want. (I just put my WebCam and Screen)
+Step two: launch the plugin in OBS (should be under "Plugins &gt; VirtualCam") 
+Step three: Click "start" to start the plugin. OBS will now act as a "webcam".
+Step four: launch Zoom and change your camera to "OBS Camera".
+Step five: Go into your Zoom meeting and enjoy.

@@ -1,0 +1,15 @@
+Lanschool Air doomsday device construction If anyone could help me crack this rabbit hole's cover open, please help me.
+
+Our school uses a software called Lanschool Air.
+
+It's basically spyware, and we need help cracking it apart.
+
+We've got three options on the table.
+
+1: We find a way to have internet connectivity, but block Lanschool Air from connecting to the control server.
+
+2: We find a way to invalidate Lanschool Air tokens, effectively paperweighting the software.
+
+3: We find a way to manipulate the time so it appears outside school hours, so Lanschool Air believes it can stop running.
+
+If you know of another way, please reply to this and tell me.

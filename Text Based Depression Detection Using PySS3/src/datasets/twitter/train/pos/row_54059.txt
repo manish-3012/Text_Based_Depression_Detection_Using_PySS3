@@ -1,0 +1,1 @@
+Heres how to stop the sticky keys window from poping up when pressing shift alot. Instead of closing it everytime, minimize it. You'll still hear the noise, but now you can press shift to your hearts content!

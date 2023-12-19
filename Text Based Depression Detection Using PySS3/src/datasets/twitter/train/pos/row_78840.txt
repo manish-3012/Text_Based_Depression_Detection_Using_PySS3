@@ -1,0 +1,1 @@
+Phone volume should be linear Because you mute is too quite and 1 is too loud

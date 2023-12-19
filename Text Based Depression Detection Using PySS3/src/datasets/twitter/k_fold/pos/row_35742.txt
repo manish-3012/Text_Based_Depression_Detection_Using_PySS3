@@ -1,0 +1,8 @@
+Spam our discord webhook  
+
+[https://discordapp.com/api/webhooks/741496663172186223/UeNfigqNluFfa7NpDEFYfWYDVEBjlRskoI536WILmbqrkbf\_NxdJtyFPhr\_lTJVP8KOm](https://discordapp.com/api/webhooks/741496663172186223/UeNfigqNluFfa7NpDEFYfWYDVEBjlRskoI536WILmbqrkbf_NxdJtyFPhr_lTJVP8KOm)
+
+That's our webhook URL, Do your worst, send whatever, Idc
+
+If  you do now know how to make a webhook request, I wrote a PowerShell script to do it for you, download it, right-click it and click run with PowerShell  
+[https://drive.google.com/file/d/1xXEOEwofHWK6eQeoSHu92MtGH1PST25K/view?usp=sharing](https://drive.google.com/file/d/1xXEOEwofHWK6eQeoSHu92MtGH1PST25K/view?usp=sharing)

@@ -1,0 +1,3 @@
+I programmed a game Idk if anyone cares but I worked on programmed my first 3D game for the past month or so. It can be played on a browser or downloaded for PC, Mac, or Linux (I don't have Mac or Linux, so I never tested either of those versions).
+
+It'd be cool if you [checked it out](https://arjhantoteck.itch.io/spheres-cubes-and-other-things).

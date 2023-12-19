@@ -1,0 +1,1 @@
+ugh stupid bug in spamassassin rule qa backend discovered it s going to take some fixing at some point adding to the todo list

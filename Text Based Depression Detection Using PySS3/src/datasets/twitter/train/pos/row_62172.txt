@@ -1,0 +1,18 @@
+I made a program that allow me to control my pc from my iPhone Yes Iâ€™m working on a program that let any one control their pc
+
+The os thatâ€™s support that right now is:
+
+Windows only
+
+But I will put mac&amp;linux soon in next beta
+
+This program is builtin python and php you need them in your path!
+This program is BETA
+
+GitHub: https://github.com/SolDevelop/RPCC
+
+Here is a demo video:
+
+[click to watch](https://streamable.com/nqx14g)
+
+I hope you like it :)

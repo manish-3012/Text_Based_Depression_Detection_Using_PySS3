@@ -1,0 +1,11 @@
+u/git-commit-die you need to step up your game Out of the last 200 posts on this sub, you only commented on 4 of them, that's 2%.
+
+Percentage Commented On    Speed Of Comment (Seconds)Length Of Comment (Characters)	Score
+
+||Amount Commented On|Speed Of Comment (Seconds)|Length Of Comment (Characters)|Score|
+|:-|:-|:-|:-|:-|
+|Mean:|2.0%|52.75|152.25|2.75|
+|Median:|4 out of 200|27.5|88.5|2.5|
+|Standard Deviation:|Nothing|57.19|190.58|0.96|
+
+I have made this table of all the data I collected. The score on the 4 comments doesn't seem to be that high so that's another area for you to improve on. This is very embarrassing for someone who claims to have no life. Step it up.

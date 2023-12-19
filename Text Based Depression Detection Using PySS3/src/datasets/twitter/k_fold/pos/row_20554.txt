@@ -1,0 +1,8 @@
+Be carefull what you out in Instagram DMâ€˜s Basically the title.
+Everything that you write in Instagram DMâ€˜s is saved as clear, readable text by facebook.
+For the sake of curiosity I downloaded my own Instagram data, and in a rather big textfile, I could read all the messages that Iâ€˜ve ever send, or received since 2016.
+
+I dont know if itâ€™s obvious, so I say it just to he clear:
+If you can read this textfile, so can facebook, and every other company/provider/whatever they share files with.
+
+So if you value privacy atleast somehow, dont use facebook apps for communication.

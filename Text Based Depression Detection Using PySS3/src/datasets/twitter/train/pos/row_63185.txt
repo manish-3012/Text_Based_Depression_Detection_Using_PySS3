@@ -1,0 +1,7 @@
+My school district is abusing Chromebook enterprise enrollment Why do I have to use DNS blocking to view something that is blocked for no good reason  
+Why do I have to reset my password every time I log into Twitter in order to prevent the admin-forced proxy from blocking the password verification packets  
+Why do I have to log into my account from old Reddit, then switch to New Reddit just to avoid the same problem I was talking about with Twitter (I'm probably gonna get hated on for using New Reddit, but I'm more used to New Reddit OK?)  
+Why do I have to use an outdated and highly insecure version of ChromeOS (Hell, even Google themselves recommend not using the update blocker feature unless absolutely, ABSOLUTELY, neccesary and I don't think it is in this case)  
+Why is it that themes and a lot of popular extentions are blocked I just want dark mode and better privacy man  
+Why is it that experimental features that would probably be genuiently useful are blocked  
+This is just the tip of the iceberg when it comes to the many (Often major) annoyances/restrictions that is possible with abusive admins and enterprise enrollment

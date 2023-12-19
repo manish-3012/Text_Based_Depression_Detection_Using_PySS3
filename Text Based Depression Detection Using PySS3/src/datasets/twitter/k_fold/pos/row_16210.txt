@@ -1,0 +1,5 @@
+I made a discord bot Its a basic bot that plays minigames but im proud of it.
+
+Commands and stuff: [https://arjhantoteck.neocities.org/minigame%20bot.html](https://arjhantoteck.neocities.org/minigame%20bot.html)
+
+Invite: [https://discord.com/oauth2/authorize?client\_id=752310548389036260&amp;scope=bot&amp;permissions=92160](https://discord.com/oauth2/authorize?client_id=752310548389036260&amp;scope=bot&amp;permissions=92160)

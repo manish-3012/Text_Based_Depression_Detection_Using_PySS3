@@ -1,0 +1,3 @@
+Day #1 of coming up with semi-usefull inventions A website where you can hum the theme of a song you don't know the name of and it will suggest you several songs with that tune. 
+
+How would this work and what flaws could it possibly have?

@@ -1,0 +1,8 @@
+Can someone help me with this math problem I know this isn't the best place but I don't know where else to ask. I am crying on the floor of my room please someone just help me understand it.
+
+&amp;#x200B;
+
+ It's two tangents on a circle. The tangents cross each other at a 50 degree angel. From the intersection of the tangents there is 13,3cm to the circle. Calculate the circles radius.   
+
+
+I've tried using sin 25 = r : 13,3+r but it doesn't work and I am going insane.

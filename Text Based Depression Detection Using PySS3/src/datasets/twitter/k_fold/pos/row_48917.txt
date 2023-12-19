@@ -1,0 +1,2 @@
+How to chill the fuck out in zoom classes 1. Turn your video off. Go to your PC's camera app. Now, go back to zoom and turn on your video. Now, your video will appear how it does when you have a very bad internet connection.
+2. Go to device manager by searching n the start menu. Go to camera then click on your camera and click on the disable device button at the top. This won't let you turn on your camera and it'll show that you don't have a camera in the participants list. To undo this, just click on the enable device button.

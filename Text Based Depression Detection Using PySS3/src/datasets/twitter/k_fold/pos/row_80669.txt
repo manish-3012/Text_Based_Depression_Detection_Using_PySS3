@@ -1,0 +1,5 @@
+I've added patterns &amp; flags to my video game For the past few weeks, I've been working on a pattern maker inspired by animal crossing in my WIP city-sim-esque video game. Right now you can only put it on a flag, but I plan to have you able to put it on building-fronts and billboards and stuff.
+
+Here's the video about it on my channel if you're interested in checking in out: [https://www.youtube.com/watch?v=E2tf6MKkBvo](https://www.youtube.com/watch?v=E2tf6MKkBvo)
+
+I'm asking here because I want to see the things I can improve about the pattern UI &amp; other things (other than the fact that it's quite buggy at the moment) and right now the game has like 1 person that knows it even exists, that person being my mom lol.

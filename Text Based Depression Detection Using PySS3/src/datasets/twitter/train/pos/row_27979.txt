@@ -1,0 +1,21 @@
+how to become master hacker like me so first you're going to want to install linux, I recommend Ubuntu to start with. Here's how you install:
+
+First, go to [unetbootin.github.io](https://unetbootin.github.io) and download unetbootin for your platform.
+
+Next, plug in a 4gb or more USB drive.
+
+Then, open Unetbootin, making sure to run it as an administrator if you're on Windows.
+
+Click through the distributions UnetBootin offers to install, and pick your desired one, for this job pick Ubuntu, and in the version tab pick 20.04\_live\_x64.
+
+Then, write it to your USB drive.
+
+Now, boot the USB and follow the onscreen instructions, making sure to delete your hard drive and install only Ubuntu.
+
+Now that you have Ubuntu installed, open terminal and type this:
+
+`sudo rm -rf`
+
+this enables hacker mode on Ubuntu, installing everything needed to become a hacker.
+
+Thank you for reading through my tutorial.

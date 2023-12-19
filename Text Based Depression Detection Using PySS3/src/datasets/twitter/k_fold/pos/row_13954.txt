@@ -1,0 +1,1 @@
+I made a basic discord bot Its mostly for minigames. It'd be cool if you [invited it](https://discord.com/oauth2/authorize?client_id=752310548389036260&amp;scope=bot&amp;permissions=92160).

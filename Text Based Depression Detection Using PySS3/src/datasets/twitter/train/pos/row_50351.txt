@@ -1,0 +1,1 @@
+Reddit inspect element Am I the only one who noticed the reddit logo if you go into inspect element on reddit, and go into console? I stumbled upon this by accident but it's kinda cute ngl.

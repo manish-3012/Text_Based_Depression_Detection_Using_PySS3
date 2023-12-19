@@ -1,0 +1,13 @@
+Simplifying Wikipedia articles (I first saw this life hack on r/LifeProTips)
+
+Ever had a really complicated Wikipedia article? 
+
+
+https://en.m.wikipedia.org/wiki/Quantum_mechanics
+
+Who knows how to read all of that? Well unordered to make your life easier, just replace the ``en`` in the link with ``simple``. It looks like this
+
+
+https://simple.m.wikipedia.org/wiki/Quantum_mechanics
+
+How you have a condensed version of whatever you were trying to read and you donâ€™t have to do 7 sub-searches!

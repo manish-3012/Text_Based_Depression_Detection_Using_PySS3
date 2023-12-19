@@ -1,0 +1,1 @@
+Stop reloading Reddit (on Mobile) If you accidently tap on the "back" button, you can scroll against

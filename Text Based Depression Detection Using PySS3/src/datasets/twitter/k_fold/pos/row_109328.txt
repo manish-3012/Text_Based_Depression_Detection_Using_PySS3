@@ -1,0 +1,1 @@
+Guys I just found out something amazing 42069420 only occurs 1 TIME in pi. I used [this site](https://www.angio.net/pi/piquery) to find out how many times 42069420 occurs in pi, and it was only 1 time in the first 200 MILLION digits of pi, at position 52437783, and the text version of it is **q g q u**.

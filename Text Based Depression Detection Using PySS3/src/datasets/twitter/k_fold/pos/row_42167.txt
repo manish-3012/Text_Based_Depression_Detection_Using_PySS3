@@ -1,0 +1,1 @@
+If you have a Dell laptop or if your storage is encrypted by Bitlocker make sure you have the security code If you dont have one make sure you generate it otherwise you will fuck up if you are doing anything silly like i did it with my laptop.

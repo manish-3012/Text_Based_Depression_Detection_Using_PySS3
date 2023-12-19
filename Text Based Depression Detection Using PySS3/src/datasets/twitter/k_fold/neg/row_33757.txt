@@ -1,0 +1,15 @@
+[meta] efficacy and metrics of this subredditHi guys.  I just joined, so forgive me if you've had this conversation and I was out the lop.
+
+I just now joined because I have some time off from work, and I also have an unusual amount of energy for reddit today.  I made a joke about someone's next stop being /r/SucideWatch, and then I thought, "why not channel some of this energy into trying to help a couple of people here and there?"
+
+I decided to start by looking through some of the top stories.  Then I kept looking.  This is depressing work.  I should have expected that.
+
+I see a lot posts where someone said they were going to kill themselves, and they never came back and commented again.  Maybe they were trolls.  Maybe they got real help.  Maybe the actually killed themselves.
+
+How do we know that any of this stuff is actually helping them?  How do we know that our attention or interference doesn't have an overall negative effect?  We (since I just joined) invite sick people in our care, but are any of us psychologists?  Can we say with authority that this well meaning community project doesn't encourage more suicides than it discourages?
+
+I propose that, for a little while, records should be kept that store information about each submission.  At the minimum, the record should contain the final outcome (positive, negative, unknown) and maybe the last known general mood of the user if they did disappear (truly suicidal, suicidal gesture, optimistic, etc.)  It would be ideal if we could follow up with them, but anonymity, inpatient psychological treatment and death probably make that impossible in most cases.
+
+We could plug that into a spreadsheet on Google Docs and see some interesting graphs immediately.  Maybe some statisticians from another subreddit could look it over as well.
+
+If, for example, it showed that seriously suicidal people rarely have a good outcome, and only those with suicidal thoughts driven by other problems find benefit... it would be worth serious thought.

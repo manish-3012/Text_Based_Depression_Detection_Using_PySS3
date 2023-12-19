@@ -1,0 +1,1 @@
+quick question dynamically allocate d array heap nonconst variables c

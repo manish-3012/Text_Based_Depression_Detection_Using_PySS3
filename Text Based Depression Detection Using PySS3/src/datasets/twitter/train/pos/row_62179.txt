@@ -1,0 +1,17 @@
+Guide to find which one-digit number(s) can divide an integer So . . . I've just rummaged through my old stuff, and found my old school notes. So . . . Maybe, I can share some knowledge with you, about the rules to find if a number is divisible by a particular one digit numbers.
+
+A number is divisible by :
+
+* 1 : If the number is an integer
+* 2 : If the number is an even number
+* 3 : If the sum of all digits in a number is divisible by 3
+* 4 : If the last two digits is divisible by 4
+* 5 : If the number ends in 0 or 5
+* 6 : If the number is even, and the sum of all digits is divisible by three
+* 7 : No particular rules or anything like that, sorry
+* 8 : If the final three digits are divisible by 8
+* 9 : If the sum of all digits in a number is divisible by 9
+
+Oh, and ignore zero, please.
+
+Now, stay healthy and have a nice day!

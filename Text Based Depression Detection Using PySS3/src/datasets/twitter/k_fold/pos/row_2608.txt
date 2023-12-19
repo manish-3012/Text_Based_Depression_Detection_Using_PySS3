@@ -1,0 +1,3 @@
+Does anyone know how to declare an array with a method outside of the main method? (Java) Iâ€™m trying to work on a project in school, and I made an array in the main method, but I have lots of other methods that I printed above the main method, and they all say that itâ€™s incompatible with the variable types iâ€™m putting inside those methods, and needs a return statement.
+
+I have a return statement but the double/int types are incompatible apparently.

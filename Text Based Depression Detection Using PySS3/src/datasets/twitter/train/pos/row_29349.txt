@@ -1,0 +1,1 @@
+If I mute the audio (of my computer, as in volume: 0%) and then record on zoom, does it still record the audio? Is the recording of my audio affected if I mute my computer?

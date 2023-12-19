@@ -1,0 +1,1 @@
+Microsoft Teams hears me when my mic is muted If i make a sound while my microphone is muted, microsoft teams notifies me that its muted, the only way it would do that is if the app actually still takes input from my mic even tho i said i dont want it to do so, i dont like this and felt like telling someone

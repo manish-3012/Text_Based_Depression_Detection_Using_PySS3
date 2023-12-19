@@ -1,0 +1,1 @@
+How in the absolute hell do I do this. I need to find the degree of freedom when I have two means.

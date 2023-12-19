@@ -1,0 +1,13 @@
+Do you use Quizlet? Do your friends? You need Quizlet Coalition! I am working on an app called [quizletcoalition.cc](https://quizletcoalition.cc):
+
+Quizlet Coalition is a web app designed to help find and share Quizlets from and with your classmates or previous students.
+
+If you have a Quizlet to share, simply go to [quizletcoalition.cc](https://quizletcoalition.cc) and follow the prompts to add your Quizlet to our index. It will be made available to your classmates, sorted by the Quizlet's name, link, class name, and teacher name.
+
+As an incentive to help build our indexes, when you add your Quizlet, there is a chance you will be given an Amazon gift card code! That means the more Quizlets you upload, the higher chance you have of winning a card! 
+
+If you need a Quizlet, all you have to do is go to [quizletcoalition.cc/browse.php](https://quizletcoalition.cc/browse.php) and search by the title of the Quizlet, by your teacher, or school!
+
+Please let me know what you think!
+
+\*Please note this is still in development, so don't be too harsh :)

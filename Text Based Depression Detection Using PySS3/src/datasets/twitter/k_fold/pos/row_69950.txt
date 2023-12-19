@@ -1,0 +1,3 @@
+Ah, Reddit. Reddit phone app changed the online/hiding function to online status: on/off.
+
+Like we didn't need a Go Back To Bottom button

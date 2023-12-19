@@ -1,0 +1,241 @@
+I don't think its supposed to look like that... \*\*\*\*this is my assignment for today. just read a bit further down to see... whatever the fuck happened.\*\*\*\*
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Ocean Circulation Lab Report
+
+&amp;#x200B;
+
+Introduction
+
+Scientists use buoys to measure ocean conditions in specific locations over time. There are a variety of different buoys deployed in the ocean; some are attached to the ocean floor, while others drift freely in open waters. All ocean buoys, regardless of type, report some physical characteristic of the ocean or the atmosphere for later analysis. In this virtual lab activity, you will use buoys to track a bottle as it travels on ocean currents worldwide.
+
+Problem: 
+
+How can data from buoys be used to analyze ocean currents?
+
+Hypothesis: 
+
+Predict the location each bottle came from using the tracking data in the Data and Observations section and the world map of major ocean currents pictured below.  
+
+For example:
+
+I predict bottle 1 is from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, bottle 2 is from \_\_\_\_\_\_\_\_\_\_\_\_, and bottle 3 is from \_\_\_\_\_\_\_\_\_\_\_\_\_\_ based on the tracking data and world map of currents.
+
+&amp;#x200B;
+
+_x0001_
+
+Materials: 
+
+This lab will be done through a virtual lab scenario.  Tracking data is provided through this online format.
+
+Procedures:
+
+View the introduction animation. Move to the next section, â€œWhich ocean current carried my bottle?â€
+
+Select bottle 1 to review its tracking data. The tracking data is also shown under Data and Observations in this lab report. 
+
+In the â€œAnalyzing Ocean Buoy dataâ€ section, plot the tracking data for bottle 1 on the world map to determine its starting location.
+
+Repeat steps 2 and 3 for the other two bottles. 
+
+Complete the Questions and Conclusion section of the lab report. 
+
+Variables: 
+
+For this investigation, list the independent, dependent, and controlled variables. 
+
+Data and Observations: 
+
+Students select a bottle, and a series of dates, longitude and latitude data will appear. The data will appear from most recent (where it was retrieved by the teacher) to least recent (close to where it was launched), so plot backward to find the place of origination and the currents involved in the bottleâ€™s journey.
+
+Bottle #1
+
+&amp;#x200B;
+
+Date_x0007_Latitude_x0007_Longitude_x0007__x0007_4/25/2010_x0007_8 S_x0007_5 W_x0007__x0007_5/2/2010_x0007_10 S_x0007_20 W_x0007__x0007_5/9/2010_x0007_10 S_x0007_40 W_x0007__x0007_5/16/2010_x0007_5 S_x0007_43 W_x0007__x0007_5/23/2010_x0007_0_x0007_45 W_x0007__x0007_5/23/2010_x0007_0_x0007_45 W_x0007__x0007_6/6/2010_x0007_8 N_x0007_70 W_x0007__x0007_6/13/2010_x0007_10 N_x0007_85 W_x0007__x0007_6/20/2010_x0007_15 N_x0007_88 W_x0007__x0007_6/27/2010_x0007_25 N_x0007_90 W_x0007__x0007_7/4/2010_x0007_28 N_x0007_90 W_x0007__x0007_7/11/2010_x0007_25 N_x0007_88 W_x0007__x0007_7/18/2010_x0007_20 N_x0007_85 W_x0007__x0007_7/25/2010_x0007_25 N_x0007_81 W_x0007__x0007_8/1/2010_x0007_30 N_x0007_80 W_x0007__x0007_Bottle #2
+
+Date_x0007_Latitude_x0007_Longitude_x0007__x0007_3/22/2010_x0007_43 S_x0007_45 W_x0007__x0007_3/29/2010_x0007_46 S_x0007_35 W_x0007__x0007_4/5/2010_x0007_45 S_x0007_30 W_x0007__x0007_4/12/2010_x0007_35 S_x0007_20 W_x0007__x0007_4/19/2010_x0007_35 S_x0007_0_x0007__x0007_4/26/2010_x0007_35 S_x0007_10 E_x0007__x0007_5/3/2010_x0007_32 S_x0007_15 E_x0007__x0007_5/10/2010_x0007_30 S_x0007_10 E_x0007__x0007_5/17/2010_x0007_28 S_x0007_5 E_x0007__x0007_5/24/2010_x0007_25 S_x0007_0_x0007__x0007_5/31/2010_x0007_20 S_x0007_5 W_x0007__x0007_6/7/2010_x0007_20 S_x0007_30 W_x0007__x0007_6/14/2010_x0007_20 S_x0007_35 W_x0007__x0007_6/21/2010_x0007_25 S_x0007_40 W_x0007__x0007_6/28/2010_x0007_30 S_x0007_45 W_x0007__x0007_
+
+Bottle#3
+
+Date_x0007_Latitude_x0007_Longitude_x0007__x0007_4/17/2010_x0007_45 N_x0007_135 W_x0007__x0007_4/24/2010_x0007_55 N_x0007_136 W_x0007__x0007_5/1/2010_x0007_60 N_x0007_137 W_x0007__x0007_5/8/2010_x0007_58 N_x0007_140 W_x0007__x0007_5/15/2010_x0007_50 N_x0007_170 W_x0007__x0007_5/22/2010_x0007_58 N_x0007_175 W_x0007__x0007_5/29/2010_x0007_60 N_x0007_178 E_x0007__x0007_6/5/2010_x0007_55 N_x0007_175 E_x0007__x0007_6/12/2010_x0007_48 N_x0007_145 E_x0007__x0007_6/19/2010_x0007_48 N_x0007_178 W_x0007__x0007_6/26/2010_x0007_45 N_x0007_170 W_x0007__x0007_7/3/2010_x0007_45 N_x0007_140 W_x0007__x0007_7/10/2010_x0007_45 N_x0007_135 W_x0007__x0007_7/17/2010_x0007_40 N_x0007_120 W_x0007__x0007_7/24/2010_x0007_30 N_x0007_115 W_x0007__x0007_Questions and Conclusion:
+
+Refer to your plotted points on the map for each of the bottles. What are the names of the major surface currents each bottle could have followed?
+
+Based on your knowledge of ocean currents, where did each bottle originate? 
+
+Is it possible the bottles could have followed different currents? If so, what were the other possible originations for each bottle? 
+
+What kinds of factors could hinder the forward progress of a message in a bottle in an ocean current? What factors could aid the movement?
+
+In the lesson, you learned about a debris convergence zone, or â€œgarbage patch,â€ that can form in the center of the Pacific Ocean. How is the formation of this patch related to ocean currents? Where else in the worldâ€™s oceans are garbage patches likely to form?
+
+Hundreds of millions of years ago, all the continents on Earth were connected to form a giant â€œsupercontinentâ€ called Pangaea. How might ocean currents have differed during the time of Pangaea compared to today? Explain your answer.
+
+How did your predictions match the tracking data for each bottle?
+
+How could you further test your conclusion on each bottleâ€™s origination? How could you confirm the bottleâ€™s starting point? 
+
+&amp;#x200B;
+
+_x0008_  _x0011__x0008_  _x0012__x0008_  _x001C__x0008_  _x001D__x0008_  _x001E__x0008_  +_x0008_  6_x0008_  8_x0008_   	  6	  8	  Â­	  Â±	  Ã´	  Ãµ	  Ã»	  Ã¿	   
+
+  _x0003_
+
+  _x0007_
+
+  _x0017_
+
+  _x001F_
+
+  1
+
+  3
+
+  8
+
+  9
+
+  :
+
+  B
+
+  C
+
+  F
+
+  G
+
+  O
+
+  k
+
+  Ã¼Ã¼ÃµÃµÃ¨Ã—Ã„Ã„Ã„Ã„Ã„Ã„Â´Ã„Â¤Å½Å½{{Â¤Ã„Â¤Ã„Ã„Ã„{Â¤Å½hÅ½hVV   "_x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333  %_x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 %_x0015_h VÃŒ _x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333 +_x0015_h)&gt;R _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 _x001F__x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333 _x001F__x0016_hX_x0019_i B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333 %_x0015_hL'_x0006_ _x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333  _x0015_h)&gt;R _x0016_hÃ†_x0007_Â¹ CJ_x0016_ OJ_x0003_ QJ_x0003_ \^J_x0003_ aJ_x0016_  _x0018__x0015_h4Y- _x0016_hÃ†_x0007_Â¹ OJ_x0003_ QJ_x0003_ \^J_x0003_  _x000C__x0015_h4Y- _x0016_hÃ†_x0007_Â¹  _x0006__x0016_hÃ†_x0007_Â¹ ! _x0008_  _x001D__x0008_  _x001E__x0008_  +_x0008_  Ãµ	  Ã¿	  :
+
+  G
+
+  Ã«
+
+  Ã¸
+
+  Å¸_x000B_  Â _x000B_  Â¢_x000B_  Â®_x000B_  _x001B__x000C_  '_x000C_  â€¹_x000C_  	
+
+  Å½
+
+  Â¿
+
+  _x0001__x000E_  Ãº            Ãµ            Ãµ            Ã®            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ã¢            Ãµ            Ã            Ã            Ã            Ãƒ            Â´                             _x000E_  
+
+&amp; _x000B_F_x0001_ _x0012_dÃ° _x0001_ _x0014_Â¤d \\$_x0001_gdÃ†_x0007_Â¹ 
+
+  
+
+&amp; _x000B_F_x0001_ _x0012_dÃ° _x0001_ _x0014_Â¤  gdÃ†_x0007_Â¹ _x0012_  
+
+&amp; _x000B_F_x0001_ _x0012_dÃ° _x0001_ _x0013_Â¤d _x0014_Â¤d \[$_x0001_\\$_x0001_gdÃ†_x0007_Â¹  _x000B__x0010_ _x0013_Â¤  _x0014_Â¤â€“ \[$ \\$ gdÃ†_x0007_Â¹  _x0006__x0010_ _x0014_Â¤â€“ gdÃ†_x0007_Â¹  _x0004__x0004_ gdÃ†_x0007_Â¹  _x0004__x0001_ gdÃ†_x0007_Â¹  _x0014_k
+
+  l
+
+  q
+
+  r
+
+  â€˜
+
+  Â¦
+
+  Â³
+
+  Ã§
+
+  Ã©
+
+  Ãª
+
+  Ã«
+
+  Ã¸
+
+  Ãº
+
+  Ã»
+
+_x0002__x000B_  6_x000B_  8_x000B_  v_x000B_  Â_x000B_  Å¸_x000B_  Â _x000B_  Â¡_x000B_  Â¢_x000B_  Â­_x000B_  Â®_x000B_  Ã¥_x000B_  Ã¶_x000B_   _x000C_  _x001A__x000C_  Ã®ÃœÃ®Ã®Ã†Ã®Ã®Ã®Ã®Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶Â¶â„¢Â¶Æ’p\]Â¶\]\]                                     %_x0015_h_x0016_EÂ _x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333 %_x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 +_x0015_h)&gt;R _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 9_x0003_j    _x0015_hÃƒb} _x0016_hÃ“7Ã³ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ U_x0008__x0001_aJ_x0016_ mH _x0004_nH _x0004_ph333 u_x0008__x0001__x001F__x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ aJ_x0016_ ph333 +_x0015_h xl _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 "_x0016_hX_x0019_i B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333  "_x0016_hÃ†_x0007_Â¹ B\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333 _x001D__x001A__x000C_  _x001B__x000C_  '_x000C_  \`_x000C_  Ë†_x000C_  Å _x000C_  â€¹_x000C_  Â¥_x000C_  Â¨_x000C_  Âº_x000C_  Ã_x000C_  Ã’_x000C_  Ã˜_x000C_  Ãž_x000C_  Ã³_x000C_  Ã´_x000C_   
+
+  _x0006_
+
+  	
+
+  6
+
+  \&gt;
+
+  G
+
+  V
+
+  X
+
+  i
+
+  Ë†
+
+  Å 
+
+  Å’
+
+  Â
+
+  Å½
+
+  Â¾
+
+  Â¿
+
+  ÃŒ
+
+  Ã©Ã˜ÃˆÃˆÃˆÃˆÃˆÃˆÃˆÃˆÃˆÃˆÃˆÂ³Â¡Å½Å½ÃˆÃˆ{Ãˆ{Ãˆ{ÃˆÃˆÃˆ{ÃˆÅ½Å½h                                            %_x0015_hÃKÂ¨ _x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 %_x0015_h3\_m _x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 %_x0015_hÂS# _x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 "_x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333  (_x0015_hÃ•zÂ¼ _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333  _x001F__x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333  _x0015_h)&gt;R _x0016_hÃ†_x0007_Â¹ CJ_x0016_ OJ_x0003_ QJ_x0003_ \^J_x0003_ aJ_x0016_  +_x0015_h_x0016_EÂ _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_CJ_x0016_ OJ_x0003_ QJ_x0003_ \\_x0008_ÂaJ_x0016_ ph333   ÃŒ
+
+  Ã¤
+
+   _x000E_  _x0001__x000E_  
+
+_x000E_  a_x000E_  x_x000E_  y_x000E_  Ë†_x000E_  Å _x000E_  â€¹_x000E_  â€™_x000E_  _x0001__x000F_  V_x000F_  \[_x000F_  c_x000F_  Ë†_x000F_  Å _x000F_  Â¸_x000F_  Ã_x000F_  Ã‚_x000F_  Ã«Ã˜Ã˜ÃƒÂ³ÃƒÂ¡Å½Å½Å½{Å½Å½kÅ½Å½Å½Å½UB                            %_x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \\_x0008_Â\^J_x0002_ ph    +_x0015_hÃ•zÂ¼ _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \\_x0008_Â\^J_x0002_ ph    _x001F__x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \^J_x0002_ ph    %_x0015_hÃ•zÂ¼ _x0016_h\[u_x001D_ B\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \^J_x0002_ ph    %_x0015_hÃ•zÂ¼ _x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \^J_x0002_ ph    "_x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333  _x001F__x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 (_x0015_h)&gt;R _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333  %_x0015_hÃKÂ¨ _x0016_hÃ†_x0007_Â¹ B\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 (_x0015_hÃKÂ¨ _x0016_hÃ†_x0007_Â¹ 5_x0008_ÂB\*_x0001_OJ_x0003_ PJ  QJ_x0003_ \^J_x0003_ ph333 _x0014__x0001__x000E_  
+
+_x000E_  a_x000E_  y_x000E_  Â¸_x000F_  Ã‚_x000F_  Ãƒ_x000F_  Ãˆ_x000F_  Ã‘_x000F_  Ã›_x000F_  Ã´            Ã´            Ã´            Ã¥            Ã¥            Ã¥            Ã”            Ã”            Ã”                                                                                                                                                                                                                                                                                       _x0011_  _x0003_$_x0001__x0012_dÃ° _x0001_ _x0014_Â¤  _x0016_$_x0001_If_x0001_   a$_x0001_gd&gt;cÂ¿  _x000E_  _x0012_dÃ° _x0001_ _x0013_Â¤d _x0014_Â¤d \[$_x0001_\\$_x0001_gdÃ†_x0007_Â¹ _x000B_  _x0012_dÃ° _x0001_ _x0014_Â¤d \\$_x0001_gdÃ†_x0007_Â¹  	Ã‚_x000F_  Ãƒ_x000F_  Ãˆ_x000F_  Ã_x000F_  Ã‘_x000F_  Ãš_x000F_  Ã›_x000F_  Ãœ_x000F_  Ã¥_x000F_  Ã¦_x000F_  Ã§_x000F_  Ã©_x000F_  Ãª_x000F_  Ã­_x000F_  Ã®_x000F_  Ã¯_x000F_  Ã·_x000F_  Ã¸_x000F_  Ã¼_x000F_  Ã½_x000F_  _x0001__x0010_  _x0002__x0010_  _x0003__x0010_  _x000B__x0010_  _x000C__x0010_  _x0010__x0010_  _x0011__x0010_  _x0015__x0010_  _x0016__x0010_  _x0017__x0010_   _x0010_  !_x0010_  $_x0010_  %_x0010_  )_x0010_  \*_x0010_  +_x0010_  4_x0010_  5_x0010_  6_x0010_  7_x0010_  ;_x0010_  &lt;_x0010_  =_x0010_  F_x0010_  G_x0010_  H_x0010_  I_x0010_  M_x0010_  N_x0010_  O_x0010_  V_x0010_  W_x0010_  X_x0010_  \[_x0010_  \\_x0010_  \`_x0010_  a_x0010_  b_x0010_  k_x0010_  l_x0010_  Ã©Ã“Ã“Ã“Ã“Ã“Ã‚Â¬â„¢Â¬Â¬â„¢Â¬â„¢Ã‚Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬Â¬â„¢Â¬â„¢Â¬â„¢Ã‚Â¬â„¢  %_x0015_hÃ•zÂ¼ _x0016_hâ€_x0002_6 B\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \^J_x0002_ ph    +_x0015_hÃ•zÂ¼ _x0016_hâ€_x0002_6 5_x0008_ÂB\*_x0001_OJ_x0002_ PJ  QJ_x0002_ \\_x0008_Â\^J_x0002_ ph     _x0015_hÃ•zÂ¼ _x0016_hâ€_x0002_6 CJ_x0014_ OJ  PJ  QJ  aJ_x0014_  +_x0015_hÃ•zÂ¼ _x0016_hâ€_x0002_6 5_x0008_ÂB\*_x0008_OJ_x0002_ PJ  QJ_x0002_ \\_x0008_Â\^J_x0002_ phÃ¿Ã¿Ã¿ +_x0015_hâ€_x0002_6 _x0016_hâ€_x0002_6 5_x0008_ÂB\*
+
+OJ_x0002_ PJ  QJ_x0002_ \\_x0008_Â\^J_x0002_ ph pÃ€  &lt;Ã›_x000F_  Ãœ_x000F_  Ã¦_x000F_  Ãª_x000F_  Ã®_x000F_  @            -            -            -                              _x0013_  _x0012_dÃ° _x0001_ _x0013_Â¤d _x0014_Â¤d _x0016_$_x0001_If_x0001_   \[$_x0001_\\$_x0001_gdâ€_x0002_6  Â¾  kdOF_x0010_ _x0016_$_x0001__x0017_$_x0001_If_x0001_    T_x0001_ _x0002_â€“2 _x0005_Ã–_x0018__x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+_x0008_Ã–F _x0003_Â¦Ã¿p_x0004_Ãž
+
+H_x0012_ B  Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿ B  Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿ B  Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿	Ã–_x0006_@_x0001_@_x0001_@_x0001_
+
+t  Â _x0004__x0012_Ã–_x001E_   Ã¿ fâ„¢      Ã¿ fâ„¢      Ã¿ fâ„¢   _x0013_Ã–0 fâ„¢ _x0006__x0001_   fâ„¢ _x0006__x0001_   fâ„¢ _x0006__x0001_   fâ„¢ _x0006__x0001_     Ã¿       Ã¿    _x0014_Ã¶_x0002_Ã„	_x0015_6_x0001__x001A_Ã–_x000C_Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿_x001B_Ã–_x000C_Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿_x001C_Ã–_x000C_Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿_x001D_Ã–_x000C_Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿_x001F_â€,_x0001_2Ã–_x0006_ _x0003__x000F__x0003_Z 3Ã–_x0006_ _x0001__x000F__x0003_  4Ã–_x0006_ _x0001__x000F__x0003_2 BÃ–_x0003_ _x0003__x0001_aÃ¶_x0003_  pÃ–_x001E_   Ã¿ fâ„¢      Ã¿ fâ„¢      Ã¿ fâ„¢   yt&gt;cÂ¿ Å T_x0001_  _x0004_Ã®_x000F_  Ã¯_x000F_  Ã¸_x000F_  Ã½_x000F_  _x0002__x0010_  H            5            5            5                                              _x0013_  _x0012_dÃ° _x0001_ _x0013_Â¤d _x0014_Â¤d _x0016_$_x0001_If_x0001_   \[$_x0001_\\$_x0001_gdâ€_x0002_6 Â·  kdWG_x0010_ _x0016_$_x0001__x0017_$_x0001_If_x0001_    T_x0001_ _x0002_â€“2 _x0005_Ã–_x0018__x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+_x0008_Ã–F _x0003_Â¦Ã¿p_x0004_Ãž
+
+H_x0012_ _x0006_ÃŠ_x0004__x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+ _x0006__x0001_
+
+  _x0006_n_x0006__x0006__x0001_

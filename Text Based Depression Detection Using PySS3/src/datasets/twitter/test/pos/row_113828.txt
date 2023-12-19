@@ -1,0 +1,23 @@
+Do you use your school/parental email for personal stuff like Reddit? If you do, you're DOING IT WRONG! Only use the school email for school stuff, and parental email for kid-appropriate stuff. [MORE INFO IF CLICKED] Steps:
+
+*Create a Google account at https://www.google.com
+
+*When opened, click Sign in. (if account is logged in, log out immediately by clicking your profile picture or the initial of your username then Sign out, then click Sign in at the top)
+
+* Create account &gt; For myself
+
+More:
+
+**Your school/parents can see everything you do, like what websites you visit, search and browsing history, your conversations and files (Gmail, Google Hangouts, video calls, online storage files, etc). That's why when you sign into your school/parental account or use a school/parent provided device, you'll likely see restrictions on that account and your ENTIRE device, as well as them blocking websites. That's not good.**
+
+If your parents don't allow the creation of a new email address that isn't linked to the school/parental email, you can either **sneak it** or **don't create a personal email address.**
+
+For the people that have parental apps installed on their devices (that can see everything you're doing, like Family Link on Android/Chrome OS or Screen Time on iOS), then you're straight out of luck. You'll have to wait until you get older to be able to create a personal account.
+
+Resources:
+
+*[Create a Google account or sign in with an existing Google account](https://accounts.google.com)
+
+*[Google Drive](https://drive.google.com)
+
+*[Gmail](https://mail.google.com)

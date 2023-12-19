@@ -1,0 +1,3 @@
+I made a meme with 3D animation! [What banana?](https://youtu.be/FfyF1F1mOZ8)
+
+Made with Blender 2.9, using the AprilTools plugin for tracking. (The paper under the banana is the tag that tracks the video into camera positions)

@@ -1,0 +1,17 @@
+Bois i need your help with math homework so i need to do this review packet and i'm stuck on a problem and i need help. Can you help me out?
+
+here's the question (it's a three part):
+
+A student wants to make a d3 printed sword. He decided to print a smaller model to check the printability. the model is printed at 1/6 of the real sword.
+
+A ( i already got this one but it might be useful to solving the other two.) if the finished model is 6.5 inches how tall is the final sword?
+
+i got 39 inches, cuz 6.5 x 6
+
+b. if the model uses .25 ounces of paint to cover the surface area, how much paint will the final sword require?
+
+I thought it would be .25 x 6=1.5, but I don't think that's correct anymore.
+
+c. We can print models with varying levels of â€œsolidness.â€ A hollow print (0% infill) will weigh less but be less sturdy, while a solid print (100% infill) is sturdy but weighs/costs more, and we can choose what percentage (anywhere from 0-100%) we want to print. We will print the model and final sword at the same infill percentage. If the student wants the final sword to weigh 5 pounds, then how much do we want the model to weigh? (Note: youâ€™ll get a small decimal of pounds, but can convert it to ounces: 1lb = 16oz)
+
+I need help with the last two, thanks guys

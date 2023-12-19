@@ -1,0 +1,9 @@
+Math Problem For a triangle drawn within a circle to find height do we use:
+
+h=2/3Ã—d
+
+or
+
+h=3/4Ã—d
+
+Please help

@@ -1,0 +1,7 @@
+I built a free android app that reminds you to take your mask whenever you leave home (or any other location) to stop people from forgetting their masks at home. It's completely open-source and just a small app to help my fellow teens.  As the title says, I am a 16 year old high-school student that has been developing for android for the past year. I've created an app called **wearAmask** for android that reminds you to take your mask whenever you leave your home, work or any other location.
+
+wearAmask works by allowing users to add a location (address) on a map by holding down on the map or typing an address. Once you choose a location, you can select the radius of the region, choose a color and enter a location name.The app is currently open to public testing and is **100% free**, no ads, completely open source and no BS whatsoever :)
+
+ And also it uses no server, all location data is stored on device, so you don't have to worry about your data being stolen by zuckerburg or anything. 
+
+The link to download is in the comments since for some reason links in posts get auto-removed.

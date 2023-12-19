@@ -1,0 +1,1 @@
+I made a Twitter bot that tweets at my ISP when my internet is slow. How often should it check (and tweet)? ![Tweet](https://imgur.com/fF0oX1J "Tweet")

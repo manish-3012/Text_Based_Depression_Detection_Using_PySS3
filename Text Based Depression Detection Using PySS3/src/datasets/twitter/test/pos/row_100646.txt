@@ -1,0 +1,3 @@
+Me and a couple of friends made a website which will help you to never miss your zoom class again! The website name is "ZoomOpener" and its url is: [https://zoomopener.com/](https://zoomopener.com/) , what you do is put a meeting like and set a time you want the zoom to open and it will automatically open the meeting for you! What me and my friends like to do is to create a schedule of the zoom meeting a day before that way the next day we are not in a rush to join the zoom meetings because it automatically opens them.
+
+\*Note: The website has to be open on your browser in order for it to automatically open meetings (It can be minimized but not closed).

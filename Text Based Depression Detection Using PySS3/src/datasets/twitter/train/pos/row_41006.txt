@@ -1,0 +1,1 @@
+We need a way to differentiate between read (reed) and read (red) Because writing read(red) looks wrong and I always read it as read(reed)

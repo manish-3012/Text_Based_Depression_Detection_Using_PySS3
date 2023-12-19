@@ -1,0 +1,3 @@
+i think i found out why GMT (Greenwich Mean Time) is so widely used in the 17th century and before it was known how to find your latitude at sea by using the stars, but longitude was always a problem. in 1714 the British government offered a 20,000 pound prize to technology that could accurately determine one's longitudinal position at sea. in 1735, John Harrison designed the chronometer (a portable timekeeping device), set to the time in Greenwich, England, and submitted it to the government and eventually won the prize. by carrying a chronometer reading Greenwich time with them, sailors could use their local time compared to Greenwich time to accurately determine their longitude
+
+thanks for coming to my TED talk yall

@@ -1,0 +1,7 @@
+colours that represent the days of the week monday: red
+tuesday: blue
+wednesday: green
+thursday: PURPLE (i stand by this)
+friday: yellow
+saturday: PINK
+sunday: ???

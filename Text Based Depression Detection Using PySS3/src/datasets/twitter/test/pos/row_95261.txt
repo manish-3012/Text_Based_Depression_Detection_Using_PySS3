@@ -1,0 +1,15 @@
+Someone just tried to make an OnlyFans account with my email address. Here's the story of how someone tried to make and OnlyFans account with my email address. luckily, I don't put much personal info on that email address other than my first name.
+
+so like about 30 minutes ago, i got a confirmation email for an OnlyFans account. I don't have use OnlyFans because im a wee lad, so i immediately got confused. I checked the username, and it was MichaelCordova, which is not my name or the name of anyone i know. so i sent an email to OnlyFans asking them to disable the account, and then I tried disabling it for myself.
+
+firstly, i went onto onlyfans and then signed in using my Gmail, which automatically signs me in without needing the password. I'm assuming this over-rided the MichaelCordova account with my new one, which is the one that is now attached to my email. I deleted that account and then checked to see if there were any accounts connected to my email using the Forgot Password option at the login page. it said that there were none, so then i proceeded to change my Gmail password.
+
+After changing my password, I tried to find out how someone might have found my email. It's not certain, because I have accounts for lots of sites and apps, but I went onto HaveIBeenPwned.com and apparently I had accounts for two sites that recently were breached, which were Canva and Mathway. (If any of you have accounts for those sites, maybe you should delete them.) So I deleted those accounts and then checked my email account to see my account activity.
+
+There were a few logs from an unknown device ranging from 8 to 3 minutes ago (from the time i checked). So then I checked my email to see what devices it was signed in to and since i just changed my password, It signed out of my phone, which was the only other device it recently signed in to other than my computer, which I was checking from.
+
+this was definitely a weird experience, and I don't really know what to do know. I still don't know how MichaelCordova managed to sign into my account and hide their device from Gmail's tracking system. This is a reminder to always make sure your accounts are well-protected with complex passwords and not to go onto shady websites/links.
+
+if any of you know any way I can check for my Gmail sign in history or something, please let me know. **Please don't try to doxx the MichaelCordova guy, that's a really shitty thing to do.**
+
+**tl;dr:** someone i dont know used my email to make an OnlyFans. stay safe online, because it might happen to you.

@@ -1,0 +1,3 @@
+online school hack - microphone looks on but no audio plays https://cdn.discordapp.com/attachments/681582948805509120/817341852428271636/Screenshot_2021-03-05_11-21-36.png
+
+If you open `pavucontrol`, go to tab `recording`, select the `mute` option. Any software recording your audio (teams, zoom) will be muted. It's useful for that weird stuff school has you download so you don't cheat or if you want to get out of school stuff by saying your microphone is broken

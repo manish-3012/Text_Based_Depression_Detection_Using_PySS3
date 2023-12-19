@@ -1,0 +1,3 @@
+I'm making a game in Google slides! Here's a link to the demo. [https://docs.google.com/presentation/d/10VUmFFGB16jkO1tuqQ65hDRYK3F5\_N0-iSmCm\_5gtc4/edit?usp=sharing](https://docs.google.com/presentation/d/10VUmFFGB16jkO1tuqQ65hDRYK3F5_N0-iSmCm_5gtc4/edit?usp=sharing)
+
+This is the demo for my new Google Slides adventure game, The New Normal. In this game, you have to decide if you want the president to be a can of baked beans or a computer mouse, then some stuff happens.

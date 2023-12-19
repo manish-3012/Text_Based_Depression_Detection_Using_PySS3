@@ -1,0 +1,13 @@
+My First Game Hello Everyone, 
+
+I just started coding JavaScript, a while ago. 
+And I wanted to share my first project with you. 
+
+Itâ€™s just a basic Rock Paper Scissors game. 
+
+The game does not support mobile currently
+
+Hope you enjoy!
+
+
+https://swayam0815.github.io/my_website/dagame.html

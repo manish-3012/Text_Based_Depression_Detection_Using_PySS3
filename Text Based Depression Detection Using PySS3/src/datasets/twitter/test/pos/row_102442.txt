@@ -1,0 +1,3 @@
+does anyone know much about graphics cards? iâ€™m trying to put in a geforce gtx 960 into a computer without a 6 pin connector
+
+im planning on getting an adapter to change a spare sata cable but im not sure if that has enough power in it to run the card

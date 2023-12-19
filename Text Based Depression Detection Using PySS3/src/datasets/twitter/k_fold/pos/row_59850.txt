@@ -1,0 +1,7 @@
+Re:zero is interesting It seems like an adequate use of 10+ hours, I have nothing better to do.
+
+Also whenever I see that name I think of 
+
+std::cout &lt;&lt; â€œhello world\nâ€;
+
+If you donâ€™t intend to learn c++ you donâ€™t need to know what that means

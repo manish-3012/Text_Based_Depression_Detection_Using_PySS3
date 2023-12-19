@@ -1,0 +1,5 @@
+Does anyone know how to solve this problem on the switch? I've hard reset it, and when you do so there is a screen with an animation of 2 joycons sliding into the switch asking you to do the same, one works just fine (left, blue) the other one doesn't work, it makes the sound (click) but instead of showing up red, it shows up grey.
+
+Also going into maintenance mode, im already at the last version and the right joycon does not work there either, I've tried cleaning the contacts from the switch itself and the joycon but nothing happens, any help?
+
+Tia.

@@ -1,0 +1,7 @@
+If anyone is really good with Minecraft commands i need help with a command not working Im doing something wrong but idk what. 
+
+My command is
+
+/fill -667 64 2482 -670 68 2485 minecraft:end_stone 
+
+Ive tried changing the type of command block or using the replace command but nothing works

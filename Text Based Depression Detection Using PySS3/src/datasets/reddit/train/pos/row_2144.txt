@@ -1,0 +1,1 @@
+just found that if i use window to browse twitter com the firewall software will automatically turn off and the pc hang

@@ -1,0 +1,9 @@
+Just a tip for colourblind people using Android phones/tabs Go to settings
+
+Select accessibility
+
+Scroll to the bottom and choose color correction
+
+Tap correction mode
+
+Choose from the three colourblind modes

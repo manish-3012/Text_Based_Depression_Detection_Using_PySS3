@@ -1,0 +1,1 @@
+window mobile doesnt allow me to write the stack pointer

@@ -1,0 +1,4 @@
+I have achieved my goal I can install arch and gentoo without looking at the wiki
+
+
+I installed gentoo 3 times, and installed artix(close enough) 2 times this week

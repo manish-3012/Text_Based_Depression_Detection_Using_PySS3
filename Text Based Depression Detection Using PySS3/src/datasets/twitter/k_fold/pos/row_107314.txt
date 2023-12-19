@@ -1,0 +1,33 @@
+Our robotics club instructor sucked Little backstory here. So I'm 15, and introvert, and really like engineering/robotics. Last year our school started a robotics club and obviously I was excited. Problem is that we started really late, like 3 months before competition, so we had no time at all to assign roles, design, build, fix and get ready for the competition in general. On top of that the adult in charge of our club didn't know anything about what to do.
+
+He's normally an office guy and doesn't know anything about engineering, so right if the bat his expectations for what we could do in 2 months was already way to high. Despite him being the one in charge though, he didn't do any research whatsoever about what we were supposed to do, and basically said that it was up to us to figure out everything. By us I mean the 8 of us that came back the second day, the other two had schedule problems, so that can be excused. All that he gave us were 3 links to sites about the meet.
+
+Anyways, when our school signed up for the robotics competition we were given two totes full of materials to build the robot, stuff like motors and all the stuff needed to get started. The second day me and my friend decided it would be a good idea to inventory what we got in the totes. Right off the bat he started bashing us for wanting to see what we had to work with, saying that this is nothing like legos and isn't a toy and we are just causing a mess, when he was the one who said we had to fo everything ourselves. With that he also said that were werent including everyone else. The other 6 people were focusing on stuff such as coming up with a name for our team, deciding roles, and coming up with shirt designs. Me and my friend were assigned lead engineers for the robot, since it was decided that we had the most knowledge and affinity for that sort of stuff.
+
+The third day we started work on the chassis for the robot, he interrupted us multiple times asking us if we knew what we were doing when we were the ones who came up with the idea for what we were doing, besides that we also had instructions to follow. It was tough going for us because he wasn't doing his job at all when we asked him if he could arrange for the school to supply us the necessary tools to build the robot. That is why I ended up having my dad come in on the days we working and sign up as a supervisor, because he had the necessary tools and was allowed to being them to school because he was assigned as a supervisor.
+
+Shortly after we had the chassis done another team was kind and let us come build with them for a day and they helped set up our wiring.
+
+Fast forward a few days and we have a decent design going, so we all split into about 3 groups, by this time there were only 6 of us left, three more people left because they didn't like it anymore, and they couldn't make it on competition day so they figured that they didn't want to stick around and not be able to see the robot function. You may be wondering how 6 came from 8 when three people left, well, luckily another one of my friends joined a little late. Anyways we split into 3 groups, one working on the bumper, one working on programming the robot, and then one working on building the rest of the robot.
+
+Building was me and my friend, we worked as fast as we could under the time limit we had and ended up with a design the sort of worked. We thought it was all to regulation from what we could tell from the info we were given about the regulations. Hint* it wasn't
+
+Programming/ computer stuff was my other friend and another person. My friend tried day and night to try and figure out how to use labview, the garbage program that came with the robot. The other person was in charge of finding regulations and being safety captain.
+
+Bumper crew was the group in charge of designing the bumper that goes around the the robot per regulation. They somehow stretched a two day process into 5 days  keep in mind that we were only meeting Tuesdays and Thursdays.
+
+Flash forward to the competition days and we find out our robot is very far from conforming to the regulations. For one, what we were told by the person that was supposed to be in charge on our team of that was that as long as all parts of the robot were within the limits of the bumper and under 45 inches when the competition started, that it was allowed ot be out of those limits, it was not.
+
+In the competition there were three parts, autonomous, which we decided to just have the robot move forward, shooting balls into holes and hanging off a bar, which was the only part where your robot can exceed 45 inches in height. We also couldn't figure out programming, luckily another team close to is knew how and they helped us.
+
+We had all three of these things on our robot. By the time we got done chopping off everything that we needed to get our robot up to regulations, the only thing we could do consistently was the autonomous movement. All while trying to fix this our instructor kept blaming me, and basically only me for all the problems we were having because I came up with the design and my dad supplied most of the material and tools.
+
+When we got back to the hotel room the instructor brought us into a meeting room where he openly blamed me for multiple things. He blamed me for not knowing the regulations when I did what I was told was allowed. He also blamed me for my lack of social skill, and blamed me for the people who quit. All this because we were low on time and I brought the robot home a couple times to make things because the school had none of the right tools to build the robot. He said the while team though I was being a controlled freak, even though when we were going to our rooms the rest of the team said they didn't actually think that.
+
+The worst thing was that I actually believed him. Luckily me friends didn't let me belive his bs for very long.
+
+On the way back to school he was speeding about 5 to 7 miles per hour above the speed limit most of the time. 
+
+After we got back to school we all reported his actions to the principal, and the principal agreed that his actions were uncalled for. He didn't get fired, but he won't be our instructor again.
+
+Sorry about this rant, but I keep thinking about it in the back of my mind and I think I just need somewhere to vent other than just my friends.

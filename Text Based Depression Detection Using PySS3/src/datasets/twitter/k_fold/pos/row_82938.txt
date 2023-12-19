@@ -1,0 +1,31 @@
+A lot of people told me that my math was vague in my last post about the chance of your crush being on reddit. So, I improved it. I would take the total no. of redditors as 330 mil. based on the usernames taken. I am taking the male and female percentages from [this post](https://www.reddit.com/r/dataisbeautiful/comments/1wtnkd/subreddit_gender_ratios_oc/), taking males as 69% (nice) and females as 31% and ignoring country wise male-female percentages. Sorry non-binary bros! The country wise data is from [here](https://www.statista.com/statistics/325144/reddit-global-active-user-distribution/) and I would assume any more variables to not affect the result.
+
+Here are the results (in the form of country-gender, chance of crush being on reddit)-
+
+USA-Male, 15.5%
+
+USA-Female, 34%
+
+UK-Male, 12.5%
+
+UK-Female, 28%
+
+Canada-Male, 20.9%
+
+Canada-Female, 45.9%
+
+Germany-Male,3.7%
+
+Germany-Female, 8.4%
+
+Australia-Male, 14.63%
+
+Australia Female, 32.5%
+
+Or should I say (%Ï›Ë™á„…Æ 'ÇlÉÉ¯Çâ„² Éá´‰lÉÉ¹Ê‡snâˆ€
+
+%Æ9Ë™ã„£Æ– 'ÇlÉW-Éá´‰lÉÉ¹Ê‡snâˆ€)
+
+Take this data with a pinch of salt.
+
+If you're not from these countries,  [here's a rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to make this post worth you time.

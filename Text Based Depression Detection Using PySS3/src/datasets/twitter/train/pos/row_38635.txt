@@ -1,0 +1,11 @@
+Does anyone wanna join my among us hide-and-seek game I tried this once and it went well so I'm trying it again I'm wondering if anybody wants to join my among us game but the hide-and-seek version it's pretty much if you don't know, a game where the imposter announces themself beginning of the game and there's no reporting or calling meetings after that and the imposther just tries to kill the crew mates while the crew makes try to finish their task to win. Additional things, lights are out and the imposters have disadvantages, no sabotages other than lights.
+Game settings, 
+Imposter 1
+Emergency cool down 60
+Player speed 2.5
+Crewmate vision 2.25
+Imposter vision 1.0
+Kill cooldown 25 sec
+Kill distance short 
+1 long task 2 short 1 common 
+Code: gjukxq

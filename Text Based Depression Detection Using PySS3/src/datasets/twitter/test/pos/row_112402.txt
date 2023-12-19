@@ -1,0 +1,3 @@
+Pick me a number Depending on the number imma decide to do something. Terrible way to pick but yea. 
+
+My choice is based off of If the number you pick is Even, odd, or a prime number (13, 11, 29 etc)

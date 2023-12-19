@@ -1,0 +1,25 @@
+Hey everyone, I made an app that lets you perform and collect real tips from your viewers. It's called Busky! **My goals for the app:**
+
+* Help people earn some extra cash while staying safe
+* Connect and entertain people who'd like to watch amateur performers
+
+**The app is 100% free to use.**
+
+**100% of the tips go to the performer.**
+
+[Busky App - App Store Link](https://apps.apple.com/us/app/busky-perform-earn-tips/id1507786180)
+
+Unfortunately, I haven't gotten around to making an Android version, sorry Android users :(
+
+**How the app works (If you'd like to be a performer):**
+
+1. Create an account, or sign in through Google or Apple
+2. Click the "Broadcast" button
+3. Add a caption and tags to your broadcast and begin streaming
+4. You can collect tips from your viewers while your live stream is going on as well as after you've finished it. So long as you don't delete the broadcast users can always watch and tip you on it. Users can also tip you directly from your profile page
+
+**How the app works (If you're a viewer):**
+
+1. Create an account, or sign in through Google or Apple
+2. Head to the "Discover" page to find hundreds of performers and performances to watch
+3. Find, Follow, and Tip performers you enjoy

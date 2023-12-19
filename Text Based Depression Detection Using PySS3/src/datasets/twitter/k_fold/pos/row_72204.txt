@@ -1,0 +1,1 @@
+You know what is fun? When you are coding a discord bot, and accidentally delete the command that took you the longest to make. Yeah. It was so fucking repetitive because I put 75 different facts into a fact command. That was like 2.5 hours of work lost. *Yay*

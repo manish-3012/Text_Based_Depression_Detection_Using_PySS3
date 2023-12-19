@@ -1,0 +1,29 @@
+Recently I saw a post circulating around of someone showing off their music. As a musician myself, I thought it would be a nice idea to show off some of my own music. I didnâ€™t invent a new genre or spend 150 hours on mixing, but I hope you take some time out of your day to listen and critique. [Hereâ€™s the link.](https://soundcloud.com/waddles-271821852/brushwood-fox-mikan-mixed?ref=clipboard) Constructive criticism is greatly appreciated and necessary for improvement.
+
+**That being said, hereâ€™s my in-depth analysis for anyone interested in Jazz Harmony**
+
+This wall of text will mostly be tackling how I used Jazz Harmony in Brushwood Fox to create dynamic and chaotic progressions, and how I ultimately tied it all together with traditional harmony.
+
+So firstly, thereâ€™s the A part; the main verses starting at 13 seconds. It starts off with an F6/9 (Yes, 6/9), then to Dmin7, G6/9 then Cmaj7/9. You can ignore all the 6/9s and 7s, since the importance is in how these chords relate to the key of F. Trick question, they donâ€™t, since D Minor and G Major arenâ€™t triads found in the F major scale. Initially that may seem like a problem, but then those two chords resolve down to a C Major. D minor and G major happen to be the II and V of the root C and therefore resolve nicely down from G major. 
+This is called a II-V-I, and it can be found just about everywhere in non-Avant garde Jazz. Even Giant Steps, the chart that changes keys many times a second, abuses the II-V-I to an extent.
+
+    Moving past the Cmaj7, the next chord is a Bmin/Bb, which can also be called a Bb Aug b9. As itâ€™s insane name probably suggests, the main purpose of this chord is to ramp up the tension so it can resolve to A minor, which is a leading tone of Bb. The flat 9 is important, since the minor 9th interval is probably one of the most uncomfortable sounding intervals there is, which means it along with the tritone is great for building tension since the notes clash with each other. 
+
+The next progression after that is a III-V-I (Emin7, Fsus2/D, Cmaj7/9) to mix things up a bit. Youâ€™ll find that despite being in F, it really likes to resolve down to C which really only works because C is the perfect fifth of F, meaning its major chord can easily progress down to F at any moment. The good old V-I is tried and tested, and it works nicely here when trying to get away (but not too far away) from the dominating F (and I donâ€™t mean dominant 7!).
+
+The A Part, aka the verses, definitely has the most complex harmonic structure in the song. Things like the bridge take less advantage of Jazz harmony and lean more to the pop-ish side of things. For example, at 0:48, The progression goes Dmin7, Dbmaj7, C6. This is a very simple progression using leading tones, which is how an unorthodox chord such as Dbmaj7 makes it in a song in F. The presence of the Top C also allows the chords to flow into each other better since they all share a note in common. It may seem small, but it really makes a difference when using chords not in the key of the song itself. At 0:56, the progression repeats for the third time, this time resolving to F rather than C. Remember how I said that F and C have a good relationship with each other? This is what I meant. After that is another II-V-I this time resolving to Bb.
+In the Chorus (1:09), the first half of the progression is again very simple; F, E/Am, Eb9, Dmin7. Notice again how this progresses chromatically downwards. Thereâ€™s those leading tones at play once again. The second half generally progresses stepwise upwards in the key of F, replacing the usual diminished vii chord with a spicy E7 which is meant to catch the listener off guard. Most of the rest was just me noodling around with chords to figure out what sounded the best to fit the melody for that specific part.
+Thatâ€™s basically the gist of the songâ€™s harmonic elements. The solo section repeats the verse progression a few times (Except for when it doesnâ€™t lmao), and the final chorus modulates a whole step up to G; the rest of it is simply repeated in different fashions. 
+
+Then finally at 5:16, we have an interesting but similar concept applied to this ending. It again progresses upwards step wise in G minor (To get that fusion-y effect), gradually getting more insane as it goes on. From what I learned, making dramatic and satisfying endings in Major chords is all about the Tertiary extensions and Sus chords (Curb your among us jokes, this is a real term). If youâ€™re not well versed in music lingo, Tertiary harmony is the act of stacking thirds on top of each other. You can make a tertiary extension by continuing to do this further than the triad, which is where the 7s, 9s, 11s, and 13s come from. For example, this final progression is G9, Fmaj7 #11, Ebmaj7/13 sus2 (aka Bb9/Eb), Fmaj7/13 sus2 (aka C9/F), then finally to the penultimate â€œG with many notes above itâ€ chord. 
+The numbers and stuff may seem confusing, but theyâ€™re really just like any other chord, except wearing fancy hats. The #11 or 13 wonâ€™t really change the fundamental meaning of say an Eb or F chord, it will only make it sound more dramatic. Iâ€™m not saying to spam this, concepts like these should be used sparingly so it doesnâ€™t get annoying after three seconds, like PK Fire.
+
+So TL;DR: 
+
+II-V-I progressions are super useful in just about every way
+
+Leading tone based progressions are cool if you canâ€™t think of stuff
+
+Tertiary extensions are cool, but only in small doses
+    
+Alright Iâ€™m done rambling. Like, Unsubscribe and have a nice day!

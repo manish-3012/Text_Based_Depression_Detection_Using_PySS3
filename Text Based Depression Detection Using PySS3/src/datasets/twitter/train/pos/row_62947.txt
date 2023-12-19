@@ -1,0 +1,7 @@
+I made a cool Discord bot It is very useful and can log activity and has fun commands. It can also do moderation and informational stuff.
+
+I got bored over the holidays and decided to make a Discord bot. You can add it to your servers if you want. 
+
+Link: [invite the bot](https://discord.com/oauth2/authorize?client_id=789960873203990598&amp;permissions=0&amp;scope=bot)
+
+Feedback appreciated.

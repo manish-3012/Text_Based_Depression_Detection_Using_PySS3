@@ -1,0 +1,5 @@
+J.P. Morgan turned me down for someone who doesn't even know how to use =SUM in ExcelMy sister was an operations analyst at J.P. Morgan. I had applied for a job there. I would say I am very well qualified. I went to one of [Caltech/Cooper/HMC/MIT/Princeton] for engineering. I've done statistical modeling on the behavior of self-driving vehicles, computational chemistry, survival analysis, and gait analysis. I've done 26 hard LeetCode problems with no hints. I have experience teaching college-level computer science, including a Java course, which was exactly what they were looking for, and statistics full time.
+
+After I applied, they sent me a rejection email. Not even a phone interview, just flat-out rejection. My sister told me they instead hired a woman who doesn't even know how to use =SUM in Excel. My sister had to spend a lot of time training the new employee to do basic computer tasks.
+
+I don't even know anymore.

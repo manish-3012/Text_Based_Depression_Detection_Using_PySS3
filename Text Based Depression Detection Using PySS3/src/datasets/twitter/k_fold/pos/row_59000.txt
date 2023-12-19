@@ -1,0 +1,1 @@
+Is it normal for minecraft to drop frames whenever it loads a chunk? I redownloaded minecraft (java) after a few years of not playing and I'm enjoying it, aparts from the fact every time it loads a chunk I get frame drops (which should happen because I use a high end rig) it's a real let down tbh, I was looking forward to building stuff

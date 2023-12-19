@@ -1,0 +1,3 @@
+Keep all fans and moving objects out of the webcam view during video calls Moving objects in a video requires more bits which takes bits away from the important stuff like the person talking. For people with bad internet your fans could be sabotaging them. 
+
+If u want to sabotage people properly, use lots of confetti.

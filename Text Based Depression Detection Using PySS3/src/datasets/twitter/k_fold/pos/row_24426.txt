@@ -1,0 +1,3 @@
+Text adventure game battle sh script [File](https://cdn.discordapp.com/attachments/288498150145261568/767362906970521601/gb.sh)
+
+Only for Linux (or android)

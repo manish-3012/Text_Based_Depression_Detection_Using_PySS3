@@ -1,0 +1,5 @@
+I just entered an IT war with my school My school blocked discord so i made my own website as a replacement to discord so me and my friend could talk (One of them got their phone taken away).
+
+I bought a webserver and setup a simple chat website with some games. It was working fine for about 3 weeks then it got blocked by the school, i think because we had more people on it than usual.
+
+Now i bought a new domain and it's camouflaged as an educational website so hopefully the school doesn't find this one.

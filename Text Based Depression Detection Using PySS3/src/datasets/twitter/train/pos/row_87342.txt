@@ -1,0 +1,9 @@
+Hereâ€™s how to stop apps like Spotify,Steam,discord, etc from opening when you just turned on your computer! (This is for Microsoft computers) 1. Go to setting and click Apps
+
+2. On the sidebar youâ€™ll see the option â€œStartupâ€
+
+3. Click on â€œStartupâ€
+
+3. Click on the apps you donâ€™t want starting up automatically when you turn on your PC.
+
+P.S. I donâ€™t know if people already knew this buts itâ€™s been a meme for awhile so I assumed a lot of you out there donâ€™t. I hope this helped!

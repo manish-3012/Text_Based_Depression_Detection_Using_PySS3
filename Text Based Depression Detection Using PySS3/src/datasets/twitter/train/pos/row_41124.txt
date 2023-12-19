@@ -1,0 +1,11 @@
+Play Cards Against Humanity online! Hey peeps,
+
+Random commenter here in 5 hours will get awarded!
+
+Some friends and I made our first ever website. It's hosted on heroku for free, so it may be a little slow, but [https://crowdz-n-cardz.herokuapp.com/](https://crowdz-n-cardz.herokuapp.com/) is the link. You can play games like cards against humanity/apples2apples, and create your own decks!
+
+If you like the website, consider liking this post: [https://www.facebook.com/mitweblab/photos/a.10160220815281037/10160220809701037](https://www.facebook.com/mitweblab/photos/a.10160220815281037/10160220809701037) It'll really help us out, and hopefully let us win some money to turn this into a real website that y'all can use!
+
+Thanks so much!
+
+marked as nsfw because it is a game, and games are not allowed at work.

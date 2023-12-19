@@ -1,0 +1,4 @@
+yooo I ""discovered"" a way to get a website Ip address just open CMD/DOS on your windows computer, type "ping" followed my the website's name.  
+Example &gt; ping [reddit.com](https://reddit.com) \[Press enter\] 
+
+You can check every website on earth!!

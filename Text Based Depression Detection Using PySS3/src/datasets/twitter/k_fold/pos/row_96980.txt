@@ -1,0 +1,1 @@
+Do you guys want a reddit bot that counts the amount of times [word not decided on yet] has been said? Sorta like the "nice" bot. Title. I need to decide on a word, but I need your help bc im not creative. Any way, the bot will behave like the "nice" bot that counts the amount of times a user has said "nice" and... yeah thats it. So what should the word be?

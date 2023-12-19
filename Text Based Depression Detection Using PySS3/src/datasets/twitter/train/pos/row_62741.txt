@@ -1,0 +1,1 @@
+Quick guys I need help My ICT exam question is this. Write an algorithm to read the radius of 10 circles. Then find the greatest area of these circles.

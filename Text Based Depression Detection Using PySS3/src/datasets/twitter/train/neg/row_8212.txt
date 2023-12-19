@@ -1,0 +1,10 @@
+goodbye world    #include &lt;iostream&gt;
+    
+    int main()
+    {
+       std::cout &lt;&lt; "Goodbye World" &lt;&lt; endl;
+       return 0;
+    }
+ \^the only program i ever managed to learn. it's over
+   
+i was never gud enuf for this world. im a drain on resources. its tiem to go                         

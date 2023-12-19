@@ -1,0 +1,1 @@
+Hey fellow DS enthusiasts I installed a NES emulator on my r4 card and the screen went kinda weird after a while. I then pulled out the card and the screen was still weird. So I blew on both and everything worked again. Classic Nintendo

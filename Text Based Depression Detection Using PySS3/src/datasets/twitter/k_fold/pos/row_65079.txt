@@ -1,0 +1,3 @@
+Are the tan function vertical lines infinite ? Iâ€™m talking about the graph , 
+
+Mathematical terms to avoid confusion: is the range  of tan(x) all the real numbers ?

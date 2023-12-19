@@ -1,0 +1,27 @@
+Earth v.1.0 Patch Notes  
+
+\- Australia fixed.
+
+\-Florida fixed.
+
+\-Pineapple Pizza virus has been removed. We are sorry, it was never supposed to exist. It was added as a prank by our former head of advertisement, Mr. Lucifer Morningstar. Needless to say, he has been relieved of his duties.
+
+\-{Bug Removed} -- Water simulation physics bug has been fixed; coastal regions will no longer experience the "tsunami" glitch.
+
+\-{Bug Removed} -- Wind simulation physics bug has been fixed; new wind patterns will no longer result in the cylindrical shaped glitch that has been dubbed the "tornado" by the users.
+
+\-{Bug Removed} -- Tectonic plates clipping issue has been resolved; no more game level breaking "earthquakes".
+
+\-{Bug Removed} -- Biological mutation mechanics have been revamped; pandemic glitch no longer triggers every hundred years.
+
+\-{Bug Removed} -- Due to unknown reasons, the users in game level "2020" all experienced a myriad of glitches which severely curtailed the free roam elements of the game. While problems still remain, the developers at God and Co. are hard at work fixing the issues.
+
+\-{Updated Codex} -- The User Manuals given during the closed beta have been updated; the Quran, the Bible and the Torah have undergone significant overhauls, users are encouraged to read and discuss them amongst themselves, making use of the newly streamlined in-game forum system, otherwise known in-game as "social media". The developers over at God and Co. are committed to creating the most inclusive community they can.
+
+\-Full five bars of the Internet have been made freely available all across the world map.
+
+\-After due consideration of the many appeals made by our beta testers, ALL species of the NPC race "Spider" have been removed. We do listen to feedback from time to time ;)
+
+\-{New Parameters} -- After due consideration, we have decided to place tighter restrictions on players that are elected to head the different player guilds, or "countries" as they are called in-game. Hopeful candidates are now subject to an intelligence and basic competence test, failing which they are declared unfit for any admin duties. This step may be ill-received by some users, however, we felt such steps were necessary following the troubling actions of recent users, most notably user Grab\_Her\_By\_The\_Pussy6969. This user has henceforth been banned.
+
+The developers at God and Co. warmly thank everyone who has participated in this closed beta, and we're excited to see you at the next update, 13.5 billion years from now! &lt;3

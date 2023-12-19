@@ -1,0 +1,7 @@
+[Confession] I made a love calculator that collected names of users and their crushes When I was 12, I made a love calculator that asked for the the name of the user and their crush. It just generated a random percentage each time with the names being used as a seed, and it saved the names and IP addresses to a database. It also sent them to a discord server that some of my classmates were in.
+
+I told another kid to try it and I posted his crush's name in a discord server where his friends saw it. Ironically, at this time, I *really* did not want my friend to tell anyone who my crush was.
+
+Another time, a random person used it and entered a link to a porn image which showed up in the discord server. I had to make it filter out URLs. Eventually I also made it require my approval to send them to the discord server due to other inappropriate content.
+
+This love calculator might still be working.

@@ -1,0 +1,9 @@
+[Repost] Temporary Legit Gmail Id for Sign-ups that Actually Works Source: u/rydersdw
+
+I have been trying to sign up on this website but as soon as I did, my inbox was spammed with garbage. So I tried to sign up with temp email but they have good security against it and accept no email Id than Gmail (i think).
+
+So searched for few hours and got [SmailPro](https://smailpro.com/), it gives a temp Gmail Id for sign-ups and it's legit. It works for almost every signup, even Netflix and other services.
+
+There are other Email Providers [here](https://techyeverything.com/temp-email-address-generators/) like this but this one seems to work for me. Check the others if SmailPro doesn't work for you.
+
+Hope this little Hack Saves your inbox from tons of Spam Emails!

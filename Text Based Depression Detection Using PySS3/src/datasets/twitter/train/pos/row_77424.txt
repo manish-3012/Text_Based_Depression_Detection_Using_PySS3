@@ -1,0 +1,3 @@
+I need help (maths) Ik it's a stupid idea to post it but I've been stuck on this for a few hours:
+
+    Make x the subject of y = (x + 13) / (2x^2 - 1)

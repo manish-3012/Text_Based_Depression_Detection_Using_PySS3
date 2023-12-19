@@ -1,0 +1,1 @@
+php give me a segfault with a preg split
